@@ -1,0 +1,5 @@
+{
+  "title": "test",
+  "ingredients": ["ingredient_1", "ingredient_2", "ingredient_3"],
+  "steps": ["step 1", "step 2", "step 3"]
+}
