@@ -1,0 +1,120 @@
+{
+  "title": {
+    "english": "Kakuni",
+    "foreign": "角煮"
+  },
+  "source": "https://www.justonecookbook.com/braised-pork-belly-kakuni/",
+  "time": {
+    "amount": 255,
+    "unit": "m"
+  },
+  "servings": {
+    "amount": 4,
+    "unit": "servings"
+  },
+  "date": [26, 12, 2023],
+  "tags": ["Japanese", "Side", "Pork"],
+  "ingredients": [
+    {
+      "title": null,
+      "notes": null,
+      "contents": [
+        {
+          "name": "Pork Belly",
+          "amount": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Ginger",
+          "amount": 1,
+          "unit": "knob",
+          "note": "~ 2 in"
+        },
+        {
+          "name": "Negi",
+          "amount": 1,
+          "unit": null,
+          "note": "Green Onions"
+        },
+        {
+          "name": "Large Eggs",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Dashi",
+          "amount": { "n": 5, "d": 2 },
+          "unit": "c"
+        },
+        {
+          "name": "Sake",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Dry Red Chili Pepper",
+          "amount": 1,
+          "unit": null,
+          "note": "takanotsume"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "title": null,
+      "steps": [
+        "Gather all the ingredients.",
+        "Pound the pork on both sides with a meat pounder.",
+        "Then mold the meat back into the original shape with your hands, and then cut into 2 inch (5 cm) pieces.",
+        {
+          "step": "Heat oil on the heavy skillet over medium-high heat and place the side with fat down. Cook the meat until all sides are nicely browned.",
+          "note": "To prevent oil splatter, you can use a splatter screen."
+        },
+        "When the meat is nicely browned, transfer it to a paper towel and wipe off excess fat.",
+        {
+          "step": "Slice the ginger and cut the green part of Tokyo Negi into 2-inch (5 cm) pieces.",
+          "note": "Save two slices for later."
+        },
+        {
+          "step": "With the white part of Tokyo Negi, make shiraga negi for garnish",
+          "note": "See section below"
+        },
+        "In a large pot, put the seared pork belly, green part of the negi, half of the sliced ginger (save the half for later), and pour water to cover the meat.",
+        "Bring it to a boil and then reduce heat to a slow simmer. Cook uncovered for 2-3 hours, turning occasionally. If the liquid is running low, add water to cover the meat.",
+        "Meanwhile, make 3 hard-boiled eggs.",
+        "After cooking for 2 hours, drain the water and take out the meat, and wipe off excess oil with a paper towel.",
+        "In a large heavy bottom pot, add the pork belly, dashi, sake, and mirin. Start cooking on medium-high heat.",
+        "Add sugar, soy sauce, the rest of the ginger slices, and the red chili pepper.",
+        "When boiling, lower the heat but keep simmering. Place drop lid (otoshibuta) on top and do not need to put a regular lid. We’ll be cooking for 1 hour on simmer/low heat.",
+        "After cooking for 30 minutes (halfway at this point), add the hard-boiled eggs. Remove the drop lid.",
+        "Continue simmering for another 30 minutes. Occasionally pour the sauce on top of the meat and rotate the meat and eggs. Make sure you have enough liquid so they won’t get burnt. When the sauce gets reduced and the meat has a nice glaze, it’s ready to serve."
+      ]
+    },
+    {
+      "title": "Shiraga Negi",
+      "steps": [
+        "Cut off the green part of 1 Tokyo negi or a few green onions/scallions. Reserve the green part for use in other recipes. We will only need the white part of the negi for this garnish. Next, cut the white part into 3-inch (7.6-cm) pieces.",
+        "Make an incision lengthwise and remove the soft green core; reserve it for use in other recipes.",
+        "You will only need the white outer layers. Stack the white outer layers of the negi and hold them flat against the cutting board.",
+        "Slice the white part of the negi lengthwise into very thin julienned strips. Soak in a bowl of iced water for 10 minutes to remove the bitterness. Drain well. The Shiraga Negi is now ready to use."
+      ]
+    }
+  ],
+  "notes": null
+}
