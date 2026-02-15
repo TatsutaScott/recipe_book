@@ -1,5 +1,8 @@
 {
-  "title": "Apple Crumble",
+  "title": {
+    "en":"Apple Crumble",
+    "lang":"en"
+  },  
   "source": "https://www.bbcgoodfood.com/recipes/best-apple-crumble",
   "time": {
     "active": "000015",

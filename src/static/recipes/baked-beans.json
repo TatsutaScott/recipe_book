@@ -1,5 +1,8 @@
 {
-  "title": "Southern Baked Beans",
+  "title": {
+    "en":"Southern Baked Beans", 
+    "lang":"en"
+  },
   "source": "https://addapinch.com/southern-baked-beans-recipe/",
   "time": "000100",
   "servings": {
