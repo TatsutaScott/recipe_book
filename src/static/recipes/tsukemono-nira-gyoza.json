@@ -1,0 +1,129 @@
+{
+  "title": {
+    "en": "Tsukemono and Nira Gyoza",
+    "ja": "漬物とにら餃子", 
+    "lang":"ja"
+  },
+  "source": "https://dancyu.jp/recipe/2022_00005749.html",
+  "time": "000100",
+  "servings": {
+    "amount": 24,
+    "unit": "dumplings"
+  },
+  "date": "20240310",
+  "tags": ["pork", "Japanese", "side"],
+  "ingredients": [
+    {
+      "section_title": "",
+      "notes": null,
+      "ingredients": [
+        {
+          "name": "Gyoza Wrappers",
+          "amount": 24,
+          "unit": null
+        },
+        {
+          "name": "Ground Pork",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Nira",
+          "amount": 2,
+          "note": "chinese chives",
+          "unit": "bunches"
+        },
+        {
+          "name": "Tsukemono",
+          "note": "either Takana or Nozawana",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Tokyo Negi",
+          "note": "or Green Onion (minced)",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ginger",
+          "note": "grated",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sake",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 0.333,
+          "unit": "1"
+        },
+        {
+          "name": "Katakuriko",
+          "note": "or corn starch",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame Seeds",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "name": "Sesame Oil",
+          "amount": 0.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable Oil",
+          "amount": 2,
+          "note": "for cooking",
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": "Preparation",
+      "steps": [
+        "Chop nira and Tsukemono into small pieces. Once chopped lightly squeeze out some of the water from the tsukemono.",
+        "Add all of the other fillings to a bowl and mix well by hand until it's sticky.",
+        "Add in chopped chives and tsukemono and mix until evenly mixed.",
+        {
+          "text": "Wrap the gyoza. You can use about 1 tablespoon of the filling for each gyoza.",
+          "note": "gyoza can be kept on a tray lined with a damp cloth while folding the other gyoza."
+        }
+      ]
+    },
+    {
+      "section_title": "Cooking",
+      "steps": [
+        "Heat 1 tablespoon of vegetable in a pan, then arrange 16 gyoza in the pan and cook over medium.",
+        "Once lightly brown on the bottom, turn the stove up to high heat and pour in about 1/2 cup of water.",
+        "When steam starts rising cover the pan with a lid and reduce heat to medium. Steam gyoza like this for about 5 minutes.",
+        "Remove the lid and cook until water is fully cooked off.",
+        "Flip the gyoza bottom side up on a plate and serve."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Dipping Sauce",
+      "text": "Enjoy the gyoza with Soy Sauce, Rice Vinegar, and chili oil, mixed to your liking."
+    }
+  ]
+}
