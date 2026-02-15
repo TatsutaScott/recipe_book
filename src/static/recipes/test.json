@@ -1,5 +1,49 @@
 {
-  "title": "test",
-  "ingredients": ["ingredient_1", "ingredient_2", "ingredient_3"],
-  "steps": ["step 1", "step 2", "step 3"]
+  "title": {
+    "en": "Test",
+    "ja": "テスト",
+    "lang": "ja"
+  },
+  "source": "https://cooking.nytimes.com/",
+  "time": {
+    "active": "010000",
+    "passive":  "000425"
+  },
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date": "19012026",
+  "tags":["test", "template", "not food"],
+  "ingredients": [
+    {
+      "section_title": "subsection 1", 
+      "ingredients":[
+        {"name":"ingredient 1", "amount": 1, "unit":"c"}, 
+        {"name":"ingredient 2", "amount": 12, "unit":"oz"},       
+        {"name":"ingredient 3", "amount": 4.5, "unit":"tsp"}
+      ]
+    }, 
+    {
+      "section_title": "subsection 2", 
+      "ingredients":[
+        {"name":"ingredient 1", "amount": 1.25, "unit":"c"}, 
+        {"name":"ingredient 2", "amount": 12, "unit":"oz"},       
+        {"name":"ingredient 3", "amount": 4, "unit":"tsp"}
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title":"subsection 1", 
+      "steps":[
+        "do thing 1 with ingredient 1", 
+        {"text":"this one has a note", "note":"this is a note"}
+      ]
+    }
+  ],
+  "notes":[
+    "this is a note", 
+    "heres another note"
+  ]
 }

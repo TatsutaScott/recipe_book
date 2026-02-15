@@ -1,24 +1,24 @@
 {
   "title": {
-    "english": "Kakuni",
-    "foreign": "角煮"
+    "en": "Kakuni",
+    "ja": "角煮", 
+    "lang":"ja"
   },
   "source": "https://www.justonecookbook.com/braised-pork-belly-kakuni/",
-  "time": {
-    "amount": 255,
-    "unit": "m"
+  "time":{
+    "active":"000015",
+    "passive":"000415"
   },
   "servings": {
     "amount": 4,
-    "unit": "servings"
+    "unit": "serving"
   },
-  "date": [26, 12, 2023],
+  "date": "26122023",
   "tags": ["Japanese", "Side", "Pork"],
   "ingredients": [
     {
-      "title": null,
-      "notes": null,
-      "contents": [
+      "section_title": null,
+      "ingredients": [
         {
           "name": "Pork Belly",
           "amount": 1,
@@ -43,7 +43,7 @@
         },
         {
           "name": "Dashi",
-          "amount": { "n": 5, "d": 2 },
+          "amount": 2.5,
           "unit": "c"
         },
         {
@@ -70,29 +70,29 @@
           "name": "Dry Red Chili Pepper",
           "amount": 1,
           "unit": null,
-          "note": "takanotsume"
+          "note": "takanotsume (鷹の爪)"
         }
       ]
     }
   ],
   "directions": [
     {
-      "title": null,
+      "section_title": null,
       "steps": [
         "Gather all the ingredients.",
         "Pound the pork on both sides with a meat pounder.",
         "Then mold the meat back into the original shape with your hands, and then cut into 2 inch (5 cm) pieces.",
         {
-          "step": "Heat oil on the heavy skillet over medium-high heat and place the side with fat down. Cook the meat until all sides are nicely browned.",
+          "text": "Heat oil on the heavy skillet over medium-high heat and place the side with fat down. Cook the meat until all sides are nicely browned.",
           "note": "To prevent oil splatter, you can use a splatter screen."
         },
         "When the meat is nicely browned, transfer it to a paper towel and wipe off excess fat.",
         {
-          "step": "Slice the ginger and cut the green part of Tokyo Negi into 2-inch (5 cm) pieces.",
+          "text": "Slice the ginger and cut the green part of Tokyo Negi into 2-inch (5 cm) pieces.",
           "note": "Save two slices for later."
         },
         {
-          "step": "With the white part of Tokyo Negi, make shiraga negi for garnish",
+          "text": "With the white part of Tokyo Negi, make shiraga negi for garnish",
           "note": "See section below"
         },
         "In a large pot, put the seared pork belly, green part of the negi, half of the sliced ginger (save the half for later), and pour water to cover the meat.",
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "title": "Shiraga Negi",
+      "section_title": "Shiraga Negi",
       "steps": [
         "Cut off the green part of 1 Tokyo negi or a few green onions/scallions. Reserve the green part for use in other recipes. We will only need the white part of the negi for this garnish. Next, cut the white part into 3-inch (7.6-cm) pieces.",
         "Make an incision lengthwise and remove the soft green core; reserve it for use in other recipes.",
