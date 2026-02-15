@@ -1,6 +1,7 @@
 <template>
   <div class="subsection" v-for="section in props.ingredients" :key="section">
     <h2 class="subsection_title" v-if="section.section_title">{{section.section_title}}</h2>
+    <p class="section_note" v-if="section.note">{{ section.note }}</p>
     <div class="ingredient_container" v-for="ingredient in section.ingredients" :key="ingredient">
       <div class="ingredient">
         <span>{{ingredient.name}}</span>
@@ -30,6 +31,7 @@ const props = defineProps({ingredients: { type: Array}});
   padding: 0.125em 0.75em ;
   border-radius: 5px;
 }
+
 .ingredient_container:hover{
   background-color: rgba(225, 225, 255, 0.5);
 }
@@ -45,5 +47,13 @@ const props = defineProps({ingredients: { type: Array}});
   font-style: italic;
   font-size: 11pt;
   margin-left: 1em;
+}
+
+.section_note{
+  font-family: Neue_Montreal;
+  color:gray;
+  font-style: italic;
+  font-size: 11pt;
+  margin: 0.5em 0;
 }
 </style>
