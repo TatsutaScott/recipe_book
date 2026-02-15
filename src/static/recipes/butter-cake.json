@@ -1,0 +1,162 @@
+{
+  "title": {
+    "en":"St. Louis Gooey Butter Cake"
+  },
+  "source": {
+    "title": "Dessert Person",
+    "author": "Claire Saffitz"
+  },
+  "time": {
+    "active": "000100",
+    "passive": "000100"
+  },
+  "servings": {
+    "amount": 12,
+    "unit": "serving"
+  },
+  "date": "20240102",
+  "tags": ["breakfast", "cake", "baked", "sweet"],
+  "ingredients": [
+    {
+      "section_title": "Cake",
+      "ingredients": [
+        {
+          "name": "Active Dry Yeast",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Whole milk",
+          "amount": 0.5,
+          "unit": "c"
+        },
+        {
+          "name": "Granulated Sugar",
+          "amount":0.333,
+          "unit": "c"
+        },
+        {
+          "name": "Large Egg Yolks",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Large Egg",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "Diamond Crystal Kosher"
+        },
+        {
+          "name": "All-Purpose Flour",
+          "amount": 2.5,
+          "unit": "c"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 1,
+          "unit": "stick",
+          "note": "cut into tablespoons, at room temperature, plus more for the pan"
+        }
+      ]
+    },
+    {
+      "section_title": "Topping",
+      "ingredients": [
+        {
+          "name": "Heavy Cream",
+          "amount": 0.25,
+          "unit": "c",
+          "note": "at room temperature"
+        },
+        {
+          "name": "Light Corn Syrup",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 10,
+          "unit": "tbsp",
+          "note": "at room temperature"
+        },
+        {
+          "name": "Granulated Sugar",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Light Brown Sugar",
+          "amount": 0.25,
+          "unit": "c",
+          "note": "packed"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "Diamond Crystal Kosher"
+        },
+        {
+          "name": "Large Egg",
+          "amount": 1,
+          "unit": null,
+          "note": "at room temperature"
+        },
+        {
+          "name": "All-Purpose Flour",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Powdered Sugar",
+          "amount": null,
+          "unit": null,
+          "note": "for serving"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": null,
+      "steps": [
+        "In a small saucepan, gently warm ¼ cup water over low heat, swirling the pan, just until it's lukewarm but not hot, about 105°F on an instant read thermometer (you can do this in the microwave, too, but beware of overheating). Pour the water into the bowl of a stand mixer fitted with the paddle attachment and whisk in the yeast to dissolve. Set aside until the mixture is cloudy and slightly puffed, about 5 minutes.",
+        "To the bowl with the yeast mixture, add the milk, granulated sugar, egg yolks, whole egg, salt, and 2 cups of the flour and mix on low until the ingredients are combined. Increase the speed to medium and continue to beat, scraping down the sides of the bowl once or twice, until you have a smooth, thick batter, about 1 minute. With the mixer still on medium, add the butter one piece at a time, beating thoroughly after each addition. Switch to the dough hook and, with the mixer on medium, add the remaining ½ cup flour 1 tablespoon at a time, mixing until you have a smooth, very soft, somewhat sticky dough that just barely pulls away from the sides of the bowl (you may not need to use all the flour).",
+        "Cover the bowl with plastic wrap and let it rise in a warm place until nearly doubled in size, 1 to 1½ hours. Generously butter the bottom and sides of the pan and set aside.",
+        "Scrape the risen dough into the prepared pan and press it into a single layer, working it all the way into the corners. If the dough sticks to your hands, butter your fingertips and proceed. If your pan is glass, mark the outside with a piece of tape to indicate the starting height of the dough (so you can easily gauge the rise on day two). Tightly cover the pan with a sheet of plastic wrap and refrigerate at least 8 hours and up to 12.",
+        "Arrange an over rack in the center position and preheat the oven to 350°F.",
+        "In a small bowl, whisk together the heavy cream, corn syrup, and vanilla until combined and set aside.",
+        "In a stand mixer fitted with the paddle attachment, beat the butter, granulated sugar, brown sugar, and salt on medium-high, scraping down the sides once or twice, until the mixture is light and fluffy, about 5 minutes. Add the egg and beat just until combined. Reduce the speed to low and add half of the flour, followed by the cream mixture, then the remaining flour, scraping down the sides of the bowl and mixing after each addition just until combined. When the batter is smooth, transfer it to a large pastry bag or 1-gallon resealable bag. Twist or seal the bag to close, pressing out any air, and snip off a 1½ in opening.",
+        {
+          "text": "Remove the pan of dough from the refrigerator and uncover. Pipe a wide snake of topping all across the surface of the dough, using the entire amount (you can also just dollop it with a spoon, but piping it gives a more even application). Use the back of a spoon or small offset spatula to spread the topping across the surface in an even layer all the way to the edges. The dough will likely have already risen to 1½ times its height while in the refrigerator overnight (use the tape as a point of reference), but if it hasn't, cover the pan again and let the cake sit at room temperature until risen.",
+          "note": "Work the topping all the way to the edges so it makes contact with the sides of the pan. These edges will caramelize and become chewy in the oven - this is the best part of the cake!"
+        },
+        {
+          "text": "Bake the cake (be sure to remove the piece of tape) until the edges are deep golden brown and firm to the touch but the center is still shiny and jiggles slightly when the pan is shaken, 30 to 40 minutes. Let the cake cool completely in the pan on a wire rack (as it cools, the filling will fall in places, forming gooey valleys in the cake).",
+          "note": "The surface will be pale in the center even when the cake below is done, so don't wait until the top is deep golden brown before pulling it from the oven. At that point, the cake beneath will be dried out."
+        },
+        "Dust lightly with powdered sugar and cut into squares before serving."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Do Ahead",
+      "text": "The cake, covered and stored at room temperature, will keep up to 4 days but is best served on the first or second day."
+    },
+    {
+      "title": "Note on Pans",
+      "text": "Although I generally don't like to bake in glass, I call for a glass pan here. It's convenient for monitoring how quickly the cake is rising and for gauging doneness in the oven, and it encourages browning around the edges, which is a good thing in this case. If you only have metal, that's fine, just keep in mind that the cake might take a little longer to bake."
+    }
+  ]
+}
