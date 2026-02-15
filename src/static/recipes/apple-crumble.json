@@ -1,0 +1,92 @@
+{
+  "title": "Apple Crumble",
+  "source": "https://www.bbcgoodfood.com/recipes/best-apple-crumble",
+  "time": {
+    "active": "000015",
+    "passive": "000040"
+  },
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date":"20240131",
+  "tags": ["dessert", "baked", "apple"],
+  "ingredients": [
+    {
+      "section_title": "For the Filling",
+      "ingredients": [
+        {
+          "name": "Apples",
+          "amount": 575,
+          "unit": "g",
+          "note": "(about 3 medium apples) peeled and sliced ~1cm thick"
+        },
+        {
+          "name": "Golden Caster Sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "section_title": "For the Crumble",
+      "ingredients": [
+        {
+          "name": "All Purpose Flour",
+          "amount": 175,
+          "unit": "g"
+        },
+        {
+          "name": "Golden Caster Sugar",
+          "amount": 110,
+          "unit": "g"
+        },
+        {
+          "name": "Cold Butter",
+          "amount": 110,
+          "unit": "g"
+        },
+        {
+          "name": "Rolled Oats",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "optional"
+        },
+        {
+          "name": "Demerara Sugar",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "optional"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": null,
+      "steps": [
+        "Heat the oven to 190C/170 fan/gas 5.",
+        "Toss 575g peeled, cored and sliced Bramley apples with 2 tbsp golden caster sugar and put in a 23cm round baking dish at least 5cm deep, or a 20cm square dish. Flatten down with your hand to prevent too much crumble falling through.",
+        "Put 175g plain flour and 110g golden caster sugar in a bowl with a good pinch of salt.",
+        {
+          "text": "Slice in 110g cold butter and rub it in with your fingertips until the mixture looks like moist breadcrumbs. Shake the bowl and any big bits will come to the surface – rub them in.",
+          "note": "Alternatively, pulse in a processor until sandy (don’t over-process)."
+        },
+        "Pour the crumb mix over the apples to form a pile in the centre, then use a fork to even out.",
+        "Gently press the surface with the back of the fork so the crumble holds together and goes crisp, then lightly drag the fork over the top for a decorative finish.",
+        "Sprinkle 1 tbsp rolled oats and 1 tbsp demerara sugar over evenly, if you wish.",
+        "Set on a baking tray and put in the preheated oven for 35-40 minutes, until the top is golden and the apples feel very soft when you insert a small, sharp knife. Leave to cool for 10 minutes before serving."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Peeling Apples",
+      "text": "If you do this with a knife rather than a peeler, it is easier to cut them into quarters first. Alternatively, for a more rustic effect, leave the apples unpeeled."
+    },
+    {
+      "title": "Variations",
+      "text": "If you make apple crumble all the time, you may feel like varying it.\n- Mix ½ tsp mixed spice, cinnamon or allspice, or the scraped seeds of half a vanilla pod, into the sugar when tossing apples\n- Add a handful of blackberries to the apples"
+    }
+  ]
+}
