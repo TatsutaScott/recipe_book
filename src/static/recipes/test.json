@@ -43,7 +43,7 @@
     }
   ],
   "notes":[
-    "this is a note", 
-    "heres another note"
+    {"title":"Note on notes", "text":"some notes have titles"}, 
+    "other notes don't"
   ]
 }
