@@ -1,0 +1,110 @@
+{
+  "title": "Southern Baked Beans",
+  "source": "https://addapinch.com/southern-baked-beans-recipe/",
+  "time": "000100",
+  "servings": {
+    "amount": 10,
+    "unit": "serving"
+  },
+  "date": "20230328",
+  "tags": ["side", "american","beans"],
+  "ingredients": [
+    {
+      "section_title": "Main Ingredients",
+      "ingredients": [
+        {
+          "name": "Navy Beans",
+          "amount": 2,
+          "unit": "16oz can"
+        },
+        {
+          "name": "Bacon",
+          "note": "diced",
+          "amount": 3,
+          "unit": "slice"
+        },
+        {
+          "name": "Garlic",
+          "amount": [1, 2],
+          "note": "minced",
+          "unit": "clove"
+        },
+        {
+          "name": "Medium Sweet Onion",
+          "amount": 0.5,
+          "unit": null,
+          "note": "diced"
+        },
+        {
+          "name": "Worcestershire Sauce",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Unsulphered Molasses",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Brown Sugar",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Ketchup",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Prepared Yellow Mustard",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "section_title": "Topping",
+      "note": "optional",
+      "contents": [
+        {
+          "name": "Bacon",
+          "note": "halved",
+          "amount": 3,
+          "unit": "slice"
+        },
+        {
+          "name": "Brown Sugar",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": "Oven Version",
+      "steps": [
+        "Preheat oven to 325º F.",
+        "Pour navy beans into medium stockpot.",
+        "In a medium skillet, add diced bacon, onion, and garlic. Cook until bacon is crisp and onion is tender. Remove from heat and add to navy beans.",
+        "Add Worcestershire sauce, molasses, brown sugar, ketchup, and yellow mustard. Stir to combine well. Pour into deep dish you plan to serve from or leave in stockpot. Top with bacon and sprinkle top with brown sugar.",
+        "Place in oven and bake 45 minutes. Increase temperature to 425º F for 10 minutes to crisp bacon. Remove from oven and allow to rest about 5 minutes before serving."
+      ]
+    },
+    {
+      "section_title": "Slow Cooker Version",
+      "steps": [
+        "Add navy beans to a slow cooker.",
+        "Cook bacon, onion, and garlic in a medium skillet until the bacon is crisp and the onion and garlic are tender. Add to the navy beans in the slow cooker.",
+        "Add Worcestershire sauce, molasses, brown sugar, ketchup, and yellow mustard. Stir to combine well.",
+        "Cook on LOW setting for 6 to 7 hours or HIGH setting for 3 to 4 hours. If the baked beans are too thin, remove the lid to the slow cooker for the last 30 to 45 minutes of cook time until the beans have thickened to desired consistency. If too thick, stir in water a tablespoon at a time until it reaches the desired consistency. Top with optional baked bacon for serving."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Make-Ahead",
+      "text": "Store baked beans in an airtight container in the refrigerator for up to a week."
+    }
+  ]
+}
