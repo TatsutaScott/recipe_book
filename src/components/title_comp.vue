@@ -11,7 +11,8 @@
       <span v-else>Time: {{ formatTime(props.time) }}</span>
       <span v-if="props.servings">Makes: {{ format_servings(props.servings) }}</span>
       <span v-if="props.date">Date: {{ formatDate(props.date) }}</span>
-      <a v-if="props.source" :href="props.source" id="source">Original Recipe Here</a>
+      <span v-if="props.source.title">Source: {{ props.source.title }} by {{ props.source.author }}</span>
+      <a v-else :href="props.source" id="source">Original Recipe Here</a>
     </div>
     <div id="tags_container">
       <span>Tags:</span>
