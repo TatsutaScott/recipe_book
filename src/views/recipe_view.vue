@@ -3,19 +3,24 @@
     <p v-if="error">{{ error }}</p>
 
     <div v-else-if="recipe">
-      <h1 id="title">{{ recipe.title.english }}</h1>
+      <title_comp
+        :title="recipe.title"
+        :source="recipe.source"
+        :time="recipe.time"
+        :servings="recipe.servings"
+        :date="recipe.date"
+        :tags="recipe.tags"
+      />
 
       <h2 class="subTitle">Ingredients</h2>
-      <ul>
-        <li class="ingredient" v-for="i in recipe.ingredients" :key="i">{{ i }}</li>
-      </ul>
+      <ingredients_comp :ingredients="recipe.ingredients"/>
 
       <h2 class="subTitle">Steps</h2>
-      <ol>
-        <li class="step" v-for="s in recipe.steps" :key="s">{{ s }}</li>
-      </ol>
-    </div>
+        <steps_comp :directions="recipe.directions" />
 
+      <h2 class="subTitle" v-if="recipe.notes">Notes</h2>
+        <notes_comp :notes="recipe.notes" v-if="recipe.notes" />
+    </div>
     <p v-else>Loading…</p>
   </div>
 </template>
@@ -23,6 +28,10 @@
 <script setup>
 import { ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
+import title_comp from '@/components/title_comp.vue'
+import ingredients_comp from '@/components/ingredients_comp.vue'
+import steps_comp from '@/components/steps_comp.vue'
+import notes_comp from '@/components/notes_comp.vue'
 
 const route = useRoute()
 const recipe = ref(null)
@@ -37,6 +46,7 @@ async function loadRecipe(slug) {
     const res = await fetch(`/src/static/recipes/${slug}.json`)
     if (!res.ok) throw new Error('Recipe not found')
     recipe.value = await res.json()
+  console.log(recipe.value)
   } catch (err) {
     error.value = err.message
   }
@@ -50,28 +60,12 @@ watch(
 )
 </script>
 
-<style scoped>
-@font-face {
-  font-family: 'Migra_bold';
-  src: url(@/assets/fonts/PPMigra-Extrabold.otf) format('opentype');
-}
-
-@font-face {
-  font-family: 'Neue_Montreal';
-  src: url(@/assets/fonts/PPNeueMontreal-Medium.otf) format('opentype');
-}
-
-#title {
-  font-size: 24pt;
-  font-family: Migra_bold;
-}
+<style lang="scss" >
+//@import url('@/static/styles/fonts.scss');
 
 .subTitle {
   font-family: Migra_bold;
-}
-
-.ingredient,
-.step {
-  font-family: Neue_Montreal;
+  margin: 0.75em 0 0.25em  0;
+  color:blue;
 }
 </style>
