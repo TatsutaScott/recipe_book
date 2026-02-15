@@ -7,7 +7,8 @@
     "node": "^20.19.0 || >=22.12.0"
   },
   "scripts": {
-    "dev": "vite",
+   "gen:recipes": "node src/scripts/generate_index.mjs",
+    "dev": "npm run gen:recipes && vite",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix --cache",
