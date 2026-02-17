@@ -18,7 +18,7 @@
         {
           "name": "Navy Beans",
           "amount": 2,
-          "unit": "16oz can"
+          "unit": "16 oz can"
         },
         {
           "name": "Bacon",
@@ -28,7 +28,7 @@
         },
         {
           "name": "Garlic",
-          "amount": [1, 2],
+          "amount": 0.5,
           "note": "minced",
           "unit": "clove"
         },
@@ -68,7 +68,7 @@
     {
       "section_title": "Topping",
       "note": "optional",
-      "contents": [
+      "ingredients": [
         {
           "name": "Bacon",
           "note": "halved",
