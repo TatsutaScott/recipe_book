@@ -9,7 +9,7 @@
   "scripts": {
    "gen:recipes": "node src/scripts/generate_index.mjs",
     "dev": "npm run gen:recipes && vite",
-    "build": "vite build",
+    "build": "npm run gen:recipes && vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix --cache",
     "format": "prettier --write --experimental-cli src/"
