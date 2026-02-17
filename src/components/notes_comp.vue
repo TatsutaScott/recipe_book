@@ -1,15 +1,8 @@
 <template>
-  <div class="note_container">
-    <div v-for="(note, index) in props.notes" :key="note">
-      <div class="note_div" v-if="note.title">
-        <span>※{{index}}:</span>
-        <span class="note_title">{{ note.title }}</span>
-        <span>{{ note.text }}</span>
-      </div>
-      <div class="note_div" v-else>
-        <span>※{{index}}:</span>
-        <span>{{ note }}</span>
-      </div>
+  <div id="notes_container">
+    <div class="note_div" v-for="(note, index) in props.notes" :key="note" >
+      <span class="note_title basic-text"><strong>{{ note.title || `※${index}`}}</strong></span>
+      <span class="basic-text">{{ note.text || note }}</span>
     </div>
   </div>
 </template>
@@ -19,23 +12,30 @@ import { defineProps } from 'vue';
 const props = defineProps({notes: { type: Array}});
 </script>
 
-<style scoped>
-.note_container{
-  color:gray;
-  font-family: Neue_Montreal;
-  font-size: 11pt;
-  font-style: italic;
-}
+<style lang="scss">
+@use '@/static/styles/global' as *;
+@use '@/static/styles/fonts.scss' as *;
 
-.note_title{
-  font-weight: bold;
-    font-style: none;
-
+#notes_container{
+  @include section;
+  @include column($gap:0.5em);
 }
 
 .note_div{
-  display: flex;
-  flex-direction: row;
-  gap: 0.5em;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  justify-content:start;
+  gap: 1em;
+  padding: 0.25rem 0.25rem;
+}
+
+.note_div:hover{
+  @include hover;
+  border-radius: 5px;
+
+}
+
+.note_title{
+  text-align: right;
 }
 </style>

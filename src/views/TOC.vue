@@ -1,5 +1,5 @@
 <template>
-  <h1>Recipes</h1>
+  <h1 class="title">Recipes</h1>
   <div id="thumb_container">
     <recipe_thumb
       v-for="recipe in recipe_index" :key="recipe"
@@ -22,11 +22,14 @@ onMounted(async () => {
 
 </script>
 
-<style scoped>
+<style lang="scss">
+@use '@/static/styles/global' as *;
+@use '@/static/styles/fonts.scss' as *;
+
 #thumb_container{
   display: flex;
   flex-direction: column;
-  gap: 1em;
+  gap: 1rem;
 }
 
 </style>

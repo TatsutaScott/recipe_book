@@ -1,14 +1,16 @@
 <template>
-  <div class="subsection" v-for="section in props.ingredients" :key="section">
-    <h2 class="subsection_title" v-if="section.section_title">{{section.section_title}}</h2>
-    <p class="section_note" v-if="section.note">{{ section.note }}</p>
-    <div class="ingredient_container" v-for="ingredient in section.ingredients" :key="ingredient">
-      <div class="ingredient">
-        <span>{{ingredient.name}}</span>
-        <span v-if="ingredient.unit">{{ `${formatNumber(ingredient.amount)} ${ingredient.unit}`}}</span>
-        <span v-else>{{ `${formatNumber(ingredient.amount)}`}}</span>
+  <div class="ingredients_container">
+    <div class="subsection_container" v-for="section in props.ingredients" :key="section">
+      <h2 class="subsection_title" v-if="section.section_title">{{section.section_title}}</h2>
+      <p class="note" v-if="section.note">{{ section.note }}</p>
+      <div class="ingredient_container">
+        <div class="ingredient" v-for="ingredient in section.ingredients" :key="ingredient">
+          <span class="basic-text">{{ingredient.name}}</span>
+          <span class="basic-text" v-if="ingredient.unit">{{ `${formatNumber(ingredient.amount)} ${ingredient.unit}`}}</span>
+          <span class="basic-text" v-else>{{ `${formatNumber(ingredient.amount)}`}}</span>
+          <span class="note" v-if="ingredient.note">{{ ingredient.note }}</span>
+        </div>
       </div>
-      <div class="ingredient_note" v-if="ingredient.note">{{ ingredient.note }}</div>
     </div>
   </div>
 </template>
@@ -19,41 +21,26 @@ import { formatNumber } from '@/scripts/util';
 const props = defineProps({ingredients: { type: Array}});
 </script>
 
-<style>
+<style lang="scss">
+@use '@/static/styles/global' as *;
+@use '@/static/styles/fonts.scss' as *;
+
+.ingredients_container{
+  @include section;
+}
+
 .ingredient{
   display: grid;
   grid-template-columns: 5fr 1fr;
-  font-family: Neue_Montreal;
-  font-size: 11pt;
-}
-
-.ingredient_container{
-  padding: 0.125em 0.75em ;
+  padding: 0.125em 0.5em;
   border-radius: 5px;
 }
 
-.ingredient_container:hover{
-  background-color: rgba(225, 225, 255, 0.5);
+.ingredient:hover{
+  @include hover;
 }
 
-.subsection_title{
-  font-family: Neue_Montreal;
-  font-size: 14pt;
-}
-
-.ingredient_note{
-  font-family: Neue_Montreal;
-  color:gray;
-  font-style: italic;
-  font-size: 11pt;
-  margin-left: 1em;
-}
-
-.section_note{
-  font-family: Neue_Montreal;
-  color:gray;
-  font-style: italic;
-  font-size: 11pt;
-  margin: 0.5em 0;
+.ingredient_container{
+  padding: 0.5em 0;
 }
 </style>
