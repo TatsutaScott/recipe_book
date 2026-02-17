@@ -1,5 +1,42 @@
 [
   {
+    "id": "apple-crumble",
+    "title": {
+      "en": "Apple Crumble",
+      "lang": "en"
+    },
+    "tags": [
+      "dessert",
+      "baked",
+      "apple"
+    ]
+  },
+  {
+    "id": "baked-beans",
+    "title": {
+      "en": "Southern Baked Beans",
+      "lang": "en"
+    },
+    "tags": [
+      "side",
+      "american",
+      "beans"
+    ]
+  },
+  {
+    "id": "butter-cake",
+    "title": {
+      "en": "St. Louis Gooey Butter Cake",
+      "lang": "en"
+    },
+    "tags": [
+      "breakfast",
+      "cake",
+      "baked",
+      "sweet"
+    ]
+  },
+  {
     "id": "kakuni",
     "title": {
       "en": "Kakuni",
@@ -13,6 +50,19 @@
     ]
   },
   {
+    "id": "namerou",
+    "title": {
+      "en": "Namerou",
+      "ja": "なめろう",
+      "lang": "ja"
+    },
+    "tags": [
+      "Japanese",
+      "fish",
+      "side"
+    ]
+  },
+  {
     "id": "test",
     "title": {
       "en": "Test",
@@ -23,6 +73,19 @@
       "test",
       "template",
       "not food"
+    ]
+  },
+  {
+    "id": "tsukemono-nira-gyoza",
+    "title": {
+      "en": "Tsukemono and Nira Gyoza",
+      "ja": "漬物とにら餃子",
+      "lang": "ja"
+    },
+    "tags": [
+      "pork",
+      "Japanese",
+      "side"
     ]
   }
 ]
