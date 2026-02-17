@@ -1,8 +1,8 @@
 <template>
-  <div class="content">
     <nav_comp />
-    <RouterView></RouterView>
-  </div>
+    <main id="content">
+      <RouterView />
+    </main>
 </template>
 
 <script setup>
@@ -13,8 +13,12 @@ import nav_comp from './components/nav_comp.vue'
 @use '@/static/styles/global' as *;
 @use '@/static/styles/fonts.scss' as *;
 
-.content {
+#content{
+  margin: 0.5em;
   padding: 1em;
-  background-color: $color_bg;
+  background-color: $color-bg;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
 }
 </style>

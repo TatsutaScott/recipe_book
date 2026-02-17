@@ -19,6 +19,7 @@ const props = defineProps({notes: { type: Array}});
 #notes_container{
   @include section;
   @include column($gap:0.5em);
+  width: 100%;
 }
 
 .note_div{
@@ -27,6 +28,7 @@ const props = defineProps({notes: { type: Array}});
   justify-content:start;
   gap: 1em;
   padding: 0.25rem 0.25rem;
+    width: 100%;
 }
 
 .note_div:hover{

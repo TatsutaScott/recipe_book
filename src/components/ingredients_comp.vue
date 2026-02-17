@@ -27,6 +27,7 @@ const props = defineProps({ingredients: { type: Array}});
 
 .ingredients_container{
   @include section;
+  width: 100%;
 }
 
 .ingredient{

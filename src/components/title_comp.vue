@@ -59,7 +59,21 @@ const format_servings = (servings) => {
 }
 
 #name_container {
-  @include row($align: baseline);
+  @include row($justify:start, $align: baseline);
+  width: 100%;
+}
+
+#details_container {
+  @include row($justify: space-between);
+  @include border($top: true, $bottom: true);
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 0.5em 0px;
+}
+
+#tags_container{
+  @include row;
+  width: 100%;
 }
 
 #source {
@@ -72,13 +86,5 @@ const format_servings = (servings) => {
   @include hover;
 }
 
-#details_container {
-  @include row($justify: space-between);
-  @include border($top: true, $bottom: true);
-  padding: 0.5em 0px;
-}
 
-#tags_container{
-  @include row;
-}
 </style>

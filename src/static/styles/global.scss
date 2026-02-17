@@ -111,3 +111,34 @@ h1, h2, h3, p {
   margin: 0;
   padding: 0;
 }
+
+html{
+  height: 100vh;
+  width: 100vw;
+}
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+#app {
+  min-height: 100vh;
+  padding: 1em;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+#app > *:last-child {
+  flex: 1;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* 2) Prevent common “mystery overflow” */
+html, body {
+  width: 100%;
+  margin: 0;
+}
