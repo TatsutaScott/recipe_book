@@ -17,7 +17,8 @@ import recipe_thumb from "@/components/recipe_thumb_comp.vue";
 const recipe_index = ref([]);
 
 onMounted(async () => {
-  recipe_index.value = await fetch("src/static/recipes-index.json").then((r) => r.json());
+  const base = import.meta.env.BASE_URL; // usually "/"
+  recipe_index.value = await fetch(`${base}recipes-index.json`).then((r) => r.json());
 });
 
 </script>

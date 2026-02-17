@@ -1,8 +1,8 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const RECIPES_DIR = path.resolve("src/static/recipes");
-const OUT_FILE = path.resolve("src/static/recipes-index.json");
+const RECIPES_DIR = path.resolve("public/recipes");
+const OUT_FILE = path.resolve("public/recipes-index.json");
 
 // pick only the fields your TOC needs
 function toIndexItem(recipe, fallbackId) {
