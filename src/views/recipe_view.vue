@@ -44,7 +44,9 @@ async function loadRecipe(slug) {
   error.value = null
 
   try {
-    const res = await fetch(`/src/static/recipes/${slug}.json`)
+    const base = import.meta.env.BASE_URL; // usually "/"
+
+    const res = await fetch(`${base}recipes/${slug}.json`)
     if (!res.ok) throw new Error('Recipe not found')
     recipe.value = await res.json()
   console.log(recipe.value)
