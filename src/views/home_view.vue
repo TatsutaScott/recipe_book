@@ -11,6 +11,7 @@
 #main_title{
   text-align: center;
 }
+
 #title_container{
   flex: 1;
   display: flex;

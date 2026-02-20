@@ -63,7 +63,7 @@ $test:#ff00ff;
 .title{
   font-family: $font-title;
   color: $color_text_accent;
-  font-size: clamp($font-size-subheading, 20vh, $font-size-heading);
+  font-size: clamp($font-size-subheading, 7vh, $font-size-heading);
   margin: 0.5rem 0;
 }
 
