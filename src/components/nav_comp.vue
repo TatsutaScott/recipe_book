@@ -13,7 +13,8 @@
 
 .nav_container {
   @include section;
-  width: auto;
+  width: 100%;
+  max-width: 1000px;
   display: flex;
   justify-content: space-between;
   background-color: $color_bg;

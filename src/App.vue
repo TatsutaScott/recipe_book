@@ -21,7 +21,7 @@ import nav_comp from './components/nav_comp.vue'
   flex-direction: column;
   border-radius: 5px;
   max-width: 1000px;
-  width: auto;
+  width: 100%;
 }
 
 </style>
