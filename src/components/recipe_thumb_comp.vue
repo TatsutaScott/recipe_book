@@ -1,8 +1,8 @@
 <template>
   <a class="recipe_thumb"  :href="`/recipe/${props.id}`">
      <div class="recipe_name">
-      <h1 class="subtitle">{{ props.title.en }}</h1>
-      <h2 v-if="props.title.lang != 'en'" class="alt-title" :class="lang">{{ props.title[props.title.lang] }}</h2>
+      <h1 class="thumb_title">{{ props.title.en }}</h1>
+      <h2 v-if="props.title.lang != 'en'" class="thumb_alt_title" :class="lang">{{ props.title[props.title.lang] }}</h2>
     </div>
     <div id="tags_container">
       <span class="tag" v-for="tag in props.tags" :key="tag">{{tag}}</span>
@@ -37,10 +37,24 @@ const props = defineProps({
 
 .recipe_name {
   @include row;
+  flex-wrap: wrap;
 }
 
 #tags_container{
   @include row;
   padding: 0.25em 0;
+}
+
+.thumb_title{
+  font-family: $font-title;
+  color: $color_text_accent;
+  font-size:  clamp($font-size-body, 10vh, $font-size-subheading);
+
+}
+
+.thumb_alt_title{
+  font-family:$font-title;
+  color: $color_text_light;
+   font-size:  clamp($font-size-caption, 2vh, $font-size-subtitle);
 }
 </style>

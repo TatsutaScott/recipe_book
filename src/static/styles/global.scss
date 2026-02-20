@@ -2,6 +2,12 @@
 $font-basic: Neue_Montreal;
 $font-title: Migra_bold;
 
+$font-size-heading: 96px;
+$font-size-subheading: 34px;
+$font-size-subtitle: 24px;
+$font-size-body: 16px;
+$font-size-caption: 12px;
+
 // Color Variables
 $color_bg: #F3F3F4;
 $color_bg_hilite: #f8faff;
@@ -57,43 +63,45 @@ $test:#ff00ff;
 .title{
   font-family: $font-title;
   color: $color_text_accent;
-  font-size: 32pt;
+  font-size: clamp($font-size-subheading, 20vh, $font-size-heading);
   margin: 0.5rem 0;
 }
 
 .alt-title{
   font-family: $font-title;
   color: $color_text_light;
-  font-size: 14pt;
+  font-size:  clamp($font-size-body, 10vh, $font-size-subheading);
 }
 
 .subtitle{
   font-family: $font-title;
   color: $color_text_accent;
-  font-size: 24pt;
+  font-size: $font-size-subheading;
 }
 
 .subsection_title{
   font-family: $font-basic;
-  font-size: 14pt;
+  font-size: $font-size-subtitle;
+}
+
+.basic-text{
+  font-family: $font-basic;
+  font-size: $font-size-body;
 }
 
 .note{
   font-family: $font-basic;
   color:$color_text_muted;
   font-style: italic;
-  font-size: 11pt;
+  font-size: $font-size-caption;
 }
 
-.basic-text{
-  font-family: $font-basic;
-  font-size: 11pt;
-}
+
 
 .tag{
   font-family: $font-basic;
   color: $color_text_muted;
-  font-size: 11pt;
+  font-size: $font-size-caption;
   padding: 0.25em;
   @include dashed-rounded;
 }
@@ -128,6 +136,7 @@ body{
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 #app > *:last-child {
