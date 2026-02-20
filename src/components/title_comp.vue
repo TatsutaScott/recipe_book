@@ -60,6 +60,7 @@ const format_servings = (servings) => {
 
 #name_container {
   @include row($justify:start, $align: baseline);
+  flex-wrap: wrap;
   width: 100%;
 }
 
