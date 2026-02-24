@@ -1,0 +1,145 @@
+{
+  "title": {
+    "kr": "김치찌개",
+    "en": "Kimchi-jjigae", 
+    "lang":"kr"
+  },
+  "source": "https://www.maangchi.com/recipe/kimchi-jjigae",
+  "time": "000030",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "07012024",
+  "tags": ["Korean", "Soup", "Pork", " Main"],
+  "ingredients": [
+    {
+      "section_title": "Main",
+      "ingredients": [
+        {
+          "name": "Kimchi",
+          "amount": 1,
+          "unit": "lb",
+          "note": "Cut into bite size pieces"
+        },
+        {
+          "name": "Kimchi Brine",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Pork Shoulder",
+          "amount": 0.5,
+          "unit": "lb",
+          "note": "or Pork Belly"
+        },
+        {
+          "name": "Tofu",
+          "amount": 0.25,
+          "unit": "package",
+          "note": "sliced into ½ in thick bite size pieces"
+        },
+        {
+          "name": "Green Onion",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Medium Onion",
+          "amount": 1,
+          "unit": null,
+          "note": "sliced"
+        },
+        {
+          "name": "Kosher Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Gochugaru",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "Korean hot pepper flakes"
+        },
+        {
+          "name": "Gochujang",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "Korean pepper paste"
+        },
+        {
+          "name": "Toasted Sesame Oil",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Anchovy Stock",
+          "amount": 2,
+          "unit": "c",
+          "note": "recipe below"
+        }
+      ]
+    },
+    {
+      "section_title": "Stock",
+      "note": "can be replaced with Dashi",
+      "contents": [
+        {
+          "name": "Large Dried Anchovies",
+          "amount": 7,
+          "unit": null,
+          "note": "heads and guts removed"
+        },
+        {
+          "name": "Daikon",
+          "amount":0.33,
+          "unit": "cup",
+          "note": "Sliced thinly"
+        },
+        {
+          "name": "Konbu",
+          "amount": 1,
+          "unit": "4 x 5\" piece"
+        },
+        {
+          "name": "Green Onion Roots",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Water",
+          "amount": 4,
+          "unit": "cups"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": "Stew Instructions",
+      "steps": [
+        "Place the kimchi and kimchi brine in a shallow pot. Add pork and onion",
+        "Slice 2 green onions diagonally and add them to the pot.",
+        "Add salt, sugar, hot pepper flakes, and hot pepper paste. Drizzle sesame oil over top and add the anchovy stock",
+        "Cover and cook for 10 minutes over medium high heat.",
+        "Open and mix in the seasonings with a spoon. Lay the tofu over top.",
+        "Cover and cook another 10 to 15 minutes over medium heat.",
+        "Chop 1 green onion and put it on the top of the stew. Remove from the heat and serve right away with rice."
+      ]
+    },
+    {
+      "section_title": "Stock Instructions",
+      "steps": [
+        "Put the anchovies, daikon, green onion roots, and dried kelp in a sauce pan.",
+        "Add the water and boil for 20 minutes over medium high heat.",
+        "Lower the heat to low for another 5 minutes.",
+        "Strain."
+      ]
+    }
+  ]
+}
