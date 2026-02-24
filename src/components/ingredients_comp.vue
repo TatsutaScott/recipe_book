@@ -10,7 +10,8 @@
             <span class="note" v-if="ingredient.note">{{ ingredient.note }}</span>
           </div>
           <div class="connecting-line"></div>
-          <span class="basic-text ingredient-amount" v-if="ingredient.unit">{{ `${formatNumber(ingredient.amount)} ${ingredient.unit}`}}</span>
+          <span class="basic-text ingredient-amount" v-if="ingredient.unit && Array.isArray(ingredient.amount)">{{ `${formatNumber(ingredient.amount[0])} - ${formatNumber(ingredient.amount[1])} ${ingredient.unit}`}}</span>
+          <span class="basic-text ingredient-amount" v-else-if="ingredient.unit">{{ `${formatNumber(ingredient.amount)} ${ingredient.unit}`}}</span>
           <span class="basic-text ingredient-amount" v-else>{{ `${formatNumber(ingredient.amount)}`}}</span>
         </div>
       </div>
