@@ -1,0 +1,108 @@
+{
+  "title": {"en":"Lamb Neck Ragu"},
+  "source": "https://superiorfarms.com/recipe/lamb-neck-ragu/",
+  "time": "000300",
+  "servings": {
+    "amount": 6,
+    "unit": "Serving"
+  },
+  "date": "28032023",
+  "tags": ["Main", "Italian", "Pasta", "Lamb"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Lamb Neck",
+          "amount": 1.5,
+          "unit": "lb"
+        },
+        {
+          "name": "Vegetable Oil",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Large Onion",
+          "amount": 1,
+          "unit": null,
+          "note": "finely chopped"
+        },
+        {
+          "name": "Carrots",
+          "amount": 2,
+          "unit": null,
+          "note": "peeled, and finely chopped"
+        },
+        {
+          "name": "Celery",
+          "amount": 2,
+          "unit": "stalk",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Garlic",
+          "amount": 3,
+          "unit": "clove",
+          "note": "minced"
+        },
+        {
+          "name": "Tomato Paste",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Red Wine",
+          "amount": 0.5,
+          "unit": "c"
+        },
+        {
+          "name": "Beef Stock",
+          "amount": 2,
+          "unit": "c"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "amount": 1,
+          "unit": "14.5oz can"
+        },
+        {
+          "name": "Fresh Thyme",
+          "amount": 2,
+          "unit": "sprig"
+        },
+        {
+          "name": "Fresh Rosemary",
+          "amount": 1,
+          "unit": "sprig"
+        },
+        {
+          "name": "Bay Leaf",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Whole Milk",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Fresh Parsley",
+          "amount": null,
+          "note": "For Garnish"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Season the **lamb neck** liberally with **salt** and **pepper**. Heat the oil in a large heavy-bottomed pot or Dutch oven over medium high-heat. Sear the lamb until well browned on all sides. Remove to a platter and set aside.",
+        "Reduce the heat to medium. Add the **onion**, **carrot**, and **celery** and sauté until softened but not browned, about **8 minutes**. Add the **garlic** and continue to cook until aromatic, about **1 minute**. Add the **tomato paste** and cook, stirring often, until the paste becomes a rich dark red, about **3 minutes**.",
+        "Deglaze the pot by adding the **red wine**, scraping up all the browned bits. Add the **broth**, **tomatoes**, **thyme**, **rosemary**, and **bay leaf** and stir to combine. Bring the mixture just to a boil and reduce the heat to low. Return the **lamb** and any drippings to the pot, nestling the pieces into the liquid until mostly covered. Cover securely and simmer for **2 to 3 hours**, turning the lamb **once per hour** or until the lamb is tender and falling off the bone.",
+        "Remove the lamb to a platter and let it cool slightly. Using two forks or your fingers shred the lamb from the bones into bite-sized pieces. Remove the thyme, rosemary, and bay leaf and discard.",
+        "In a small saucepan bring the **milk** just to a simmer. Gradually add the milk to the sauce, a small amount at a time, stirring regularly. Return the lid to the pot, leaving slightly askew, and allow the mixture to simmer until the milk is well integrated, about **30 minutes**. Return the lamb and any drippings to the pot, stir well to combine, and return just to a boil. (*If the sauce seems too watery for your taste, lower the heat and simmer until adequately reduced.*)",
+        "Serve over freshly cooked pasta or polenta, garnished with **fresh parsley**."
+      ]
+    }
+  ]
+}
