@@ -1,5 +1,8 @@
 {
-  "title": "Cacio e Pepe",
+  "title": {
+    "en":"Cacio e Pepe", 
+    "lang":"it"
+  },
   "source": "https://www.bonappetit.com/recipe/cacio-e-pepe",
   "time": "000020",
   "servings": {
