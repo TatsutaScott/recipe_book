@@ -1,0 +1,76 @@
+{
+  "title": {
+    "en":"Classic Cream Cheese Frosting"
+  },
+  "source": {
+    "title": "Dessert Person",
+    "author": "Claire Saffitz"
+  },
+  "time": "000010",
+  "servings": {
+    "amount": 4.5,
+    "unit": "cup"
+  },
+  "date": "02012024",
+  "tags": ["Dessert", "Baking", "Ingredient"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Unsalted Butter",
+          "amount": 16,
+          "unit": "tbsp",
+          "note": "room temperature"
+        },
+        {
+          "name": "Full Fat Cream Cheese",
+          "amount": 1,
+          "unit": "lb",
+          "note": "room temperature, preferably philadelphia"
+        },
+        {
+          "name": "Kosher Salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "name": "Powdered Sugar",
+          "amount": 1,
+          "unit": "lb",
+          "note": "(about 3½ cups), sifted if lumpy"
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "or seeds scraped from 1 vanilla bean."
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "In a stand mixer fitted with the paddly attachment, beat the butter and cream cheese on medium-high, scraping down the sides of the bowl occasionally, until the mixture is completely smooth. Turn off the mixer, add the salt and all of the powdered sugarm and cover the bowl of the mixer with a clean kitchen towel (to shield you from powdered sugar plumes). Pulse the mxier on low several times to incorporate the sugar, then remove the towel and beat the frosting on medium-high, scraping down the sides once or twice, until the frosting is light, thick, and very smooth, about 1 minute. Beat in the vanilla seeds. The frosting is now ready to use."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Do Ahead",
+      "text": "The frosting, stored airtight in the refrigerator, will keep up to 1 week. Let it come completely to room temperature, then beat again in the bowl of a stand mixer with the paddle attachment to smooth out the frosting before using."
+    },
+    {
+      "title": "Room Temperature",
+      "text": "Make sure the butter and cream cheese are both completely at room temperature (and, by extension, the same temperature), otherwise the colder of the two will form lumps. If this happens, take about ¼ cup of the lumpy mixture and warm it gently in the microwave until liquefied, then return it to the mixer bowl and beat until the frosting is smooth. The warm mixture should bring up the total temperature of the frosting slightly, smoothing out the colder lumps."
+    },
+    {
+      "title": "Chocolate Variation",
+      "text": "Add 6 ounces melted and cooled unsweetened chocolate to the mixer bowl after adding the vanilla. Beat, scraping down the sides once or twixe, until the frosting is smooth and streak-free."
+    },
+    {
+      "title": "Brown Butter Variation",
+      "text": "In a medium saucepan, cook the 2 sticks unsalted butter over medium ,heat, stirring and scraping the bottom and sides constantly with a heatproof spatula, until the sputtering subsides, the butter is foaming, and the solid bits turn brown, 6 to 8 minutes. Scrape the butter and all the toasted bits into the bowl of the stand mixer and set it aside until the butter is completlely cooled and solidified (you can stir it over an ice bath to speed up this process, but don't let the butter harden). Proceed with the recipe. If the consistency of the frosting is very loose and it won't hold a peak, place the bowl in the refrigerator and stir every 10 minutes with a flexible spatula until it's thickened and spreadable."
+    }
+  ]
+}
