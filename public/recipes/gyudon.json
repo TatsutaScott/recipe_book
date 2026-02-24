@@ -1,0 +1,91 @@
+{
+  "title": {
+    "en": "Gyudon",
+    "jp": "牛丼", 
+    "lang":"jp"
+  },
+  "source": "https://www.justonecookbook.com/yoshinoya-beef-bowl-gyudon/",
+  "time": "000020",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "26122023",
+  "tags": ["Main", "Donburi", "Japanese", "Steak"],
+  "ingredients": [
+    {
+      "note": "If you cannot find sliced beef in your local grocery store, freeze a block of fresh chuck or rib eye for 1-2 hours and slice. After you slice, if the piece is too large then cut them in half.",
+      "contents": [
+        {
+          "name": "Onion",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Green Onions",
+          "amount": 2,
+          "unit": null
+        },
+        {
+          "name": "Dashi",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Sake",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Thinly Sliced Beef",
+          "amount": 1.5,
+          "unit": "lb",
+          "note": "chuck or ribeye"
+        },
+        {
+          "name": "Pickeled Ginger",
+          "amount": 4,
+          "unit": "tbsp",
+          "note": "Beni Shouga"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Gather all the ingredients.",
+        "Cut the onion into thinly slices and chop the green onion. Set aside.",
+        "Heat a large frying pan over medium-high heat and add dashi, sake, sugar, mirin, and soy sauce.",
+        {
+          "step": "Cover the lid and bring the sauce to boil. Once the sauce is boiling, add the sliced onions and spread them out. Cover and cook until tender.",
+          "text": "If you don’t cover the pan, the sauce will evaporate, so make sure you cover the lid."
+        },
+        "When the onion is tender, add the beef and cook until no longer pink. Skim off the foam or fat with a fine-mesh sieve.",
+        "Serve the meat and sauce over steamed rice.",
+        "Top with chopped green onion and pickled red ginger."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Alternative Version",
+      "text": "For a slight variation on the dish, add in a beaten egg to the meat right before serving."
+    }
+  ]
+}
