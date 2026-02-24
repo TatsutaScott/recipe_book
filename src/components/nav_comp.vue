@@ -1,6 +1,7 @@
 <template>
   <div class="nav_container">
     <a class="link" href="/"><span class="material-icons">home</span></a>
+    <a class="link" href="/help"><span class="material-icons">help</span></a>
     <a class="link" href="/TOC"><span class="material-icons">menu</span></a>
   </div>
 </template>
