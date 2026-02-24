@@ -1,0 +1,124 @@
+{
+  "title": {
+    "en": "Keema Curry",
+    "jp": "キーマカレー", 
+    "lang":"jp"
+  },
+  "source": "https://www.justonecookbook.com/keema-curry/",
+  "time": "000030",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "26122023",
+  "tags": ["Curry", "Main", "Japanese"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Onion",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Celery",
+          "amount": 1,
+          "unit": "stalk"
+        },
+        {
+          "name": "Carrot",
+          "amount": 0.5,
+          "unit": null
+        },
+        {
+          "name": "Shiitake Mushrooms",
+          "amount": 6,
+          "unit": null
+        },
+        {
+          "name": "Vegetable Oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ground Pork",
+          "amount": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Chicken Broth",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Water",
+          "amount": 0.5,
+          "unit": "c"
+        },
+        {
+          "name": "Curry Powder",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Butter",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Curry Roux",
+          "amount": 2,
+          "unit": "cube"
+        },
+        {
+          "name": "Ketchup",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Tonkatsu Sauce",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Gather all the ingredients.",
+        "Chop the onion finely. With the knife tip pointing toward the root, slice the onion to within ½ inch of the base. Make about ¼ inch parallel cuts. Then slice the onion horizontally about ¼ inch parallel cuts.",
+        {
+          "step": "Then cut perpendicular to the first slices you made. If the onions need to be chopped finer, you can run your knife through them in a rocking motion.",
+          "text": "Be sure to hold down the tip of the knife; otherwise, the onions are going to go flying around."
+        },
+        "Cut the celery into 4-inch pieces, then thin sticks, and mince them.",
+        "Cut the carrot into 4-inch thin slabs, then thin sticks, and mince them.",
+        "Remove the stem of shiitake mushrooms and slice them, and mince them.",
+        "In a large skillet, heat oil over medium heat. Sauté the onion until translucent.",
+        "Add ground pork and cook until no longer pink.",
+        "Season with salt and pepper",
+        "Add celery, carrots, and shiitake mushrooms and mix well with the rest of the ingredients.",
+        {
+          "step": "Add chicken stock and water.",
+          "text": "Add more water, if necessary, so the cooking liquid covers the ingredients."
+        },
+        {
+          "step": "Add curry powder and mix well. Cover and bring it to boil. Reduce heat to medium-low heat and cook covered until the vegetables are tender, about 6-8 minutes",
+          "text": "Skim off the scum and foam on the surface with a fine-mesh skimmer as necessary."
+        },
+        "Add curry roux (one piece at a time!) and butter and let them dissolved completely. The curry will thicken as it's heated up. Adjust the thickness of the curry with water/broth. You can make it soupy if you prefer.",
+        {
+          "step": "Add ketchup and Tonkatsu sauce. Mix well and simmer for 3-5 minutes.",
+          "text": "If the sauce is too thick, add a small amount of water to adjust."
+        },
+        "Serve the Keema Curry over steamed rice and top with a fried egg, if you like."
+      ]
+    }
+  ]
+}
