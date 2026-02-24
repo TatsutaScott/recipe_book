@@ -1,0 +1,77 @@
+{
+  "title": {
+    "en": "Spinach Goma ae",
+    "jp": "ほうれん草の胡麻和え", 
+    "lang":"jp"
+  },
+  "source": "https://www.justonecookbook.com/spinach-with-sesame-sauce/",
+  "time": "000015",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "26122023",
+  "tags": ["Japanese", "Side", "Vegetable"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Spinach",
+          "amount":0.5,
+          "unit": "lb"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Toasted White Sesame Seeds",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Mirin",
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Grind the toasted sesame seeds with a mortar and pestle. Leave some sesame seeds unground for some texture.",
+        "Add the sesame sauce seasonings to the ground sesame seeds and mix all together.",
+        {
+          "step": "Put lightly salted water in a large pot and bring to boil. Once boiling, add the spinach from the stem side (takes longer to cook) and cook for 30-45 seconds.",
+          "text": "American spinach is very soft and we can eat it raw unlike Japanese spinach; therefore, cooking for 30-45 seconds is enough."
+        },
+        "Remove the spinach from the water and soak in iced water to stop cooking with remaining heat. Alternatively, drain and run the spinach under cold running water until cool. Collect the spinach and squeeze water out.",
+        "Cut the spinach into 1-2” (2.5-5 cm) lengths and put in a medium bowl.",
+        "Add the sesame sauce and toss it all together. Serve at room temperature or chilled."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Optional",
+      "text": "For the sesame sauce, put sesame seeds in a frying pan and toast them on low heat. When 2-3 sesame seeds start to pop from the pan, remove from the heat."
+    }
+  ]
+}
