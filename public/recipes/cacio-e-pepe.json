@@ -1,0 +1,56 @@
+{
+  "title": "Cacio e Pepe",
+  "source": "https://www.bonappetit.com/recipe/cacio-e-pepe",
+  "time": "000020",
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date": "28032023",
+  "tags": ["Main", "Italian", "Pasta"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Pasta",
+          "note": "(tagliolini, bucatini, or spaghetti)",
+          "amount": 12,
+          "unit": "oz"
+        },
+        {
+          "name": "Butter",
+          "amount": 6,
+          "note": "cubed, divided",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Black Pepper",
+          "amount": 2,
+          "note": "freshly ground",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Parmesan or Grana Padano",
+          "amount": 1.5,
+          "note": "finely grated",
+          "unit": "c"
+        },
+        {
+          "name": "Pecorino",
+          "amount": 0.66,
+          "note": "finely grated",
+          "unit": "c"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Bring 3 quarts water to a boil in a 5-qt. pot. Season with salt; add pasta and cook, stirring occasionally, until about 2 minutes before tender. Drain, reserving ¾ cup pasta cooking water.",
+        "Meanwhile, melt 2 tablespoons butter in a Dutch oven or other large pot or skillet over medium heat. Add pepper and cook, swirling pan, until toasted, about 1 minute.",
+        "Add ½ cup reserved pasta water to skillet and bring to a simmer. Add pasta and remaining butter. Reduce heat to low and add Grana Padano, stirring and tossing with tongs until melted. Remove pan from heat; add Pecorino, stirring and tossing until cheese melts, sauce coats the pasta, and pasta is al dente. (*Add more pasta water if sauce seems dry.*) Transfer pasta to warm bowls and serve."
+      ]
+    }
+  ]
+}
