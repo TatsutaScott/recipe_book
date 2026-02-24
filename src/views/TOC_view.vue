@@ -51,7 +51,6 @@ const filtered_recipes = computed(() => {
   const chosen = [...selected_tags.value];
   if (chosen.length === 0) return recipe_index.value;
 
-  // AND mode (swap in instead):
   return recipe_index.value.filter((recipe) => {
     const tags = recipe.tags ?? [];
     return chosen.every((t) => tags.includes(t));
