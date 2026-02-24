@@ -73,8 +73,8 @@
         "Cut the onion into thinly slices and chop the green onion. Set aside.",
         "Heat a large frying pan over medium-high heat and add dashi, sake, sugar, mirin, and soy sauce.",
         {
-          "step": "Cover the lid and bring the sauce to boil. Once the sauce is boiling, add the sliced onions and spread them out. Cover and cook until tender.",
-          "text": "If you don’t cover the pan, the sauce will evaporate, so make sure you cover the lid."
+          "text": "Cover the lid and bring the sauce to boil. Once the sauce is boiling, add the sliced onions and spread them out. Cover and cook until tender.",
+          "note": "If you don’t cover the pan, the sauce will evaporate, so make sure you cover the lid."
         },
         "When the onion is tender, add the beef and cook until no longer pink. Skim off the foam or fat with a fine-mesh sieve.",
         "Serve the meat and sauce over steamed rice.",

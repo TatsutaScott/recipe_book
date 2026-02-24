@@ -96,15 +96,15 @@
         "Make sugar water by mixing 1 cup of water and 1 teaspoon sugar.",
         "Peel the pear and slice into halves. Slice one half into thin strips and soak them in the sugar water to keep them from going brown.",
         {
-          "step": "Grate the other half of the pear and squeeze out the juice using a cotton cloth or cheesecloth. You should get about ½ cup of pear juice.",
-          "text": " If you use small bosc pears, use one for garnish and the other for pear juice."
+          "text": "Grate the other half of the pear and squeeze out the juice using a cotton cloth or cheesecloth. You should get about ½ cup of pear juice.",
+          "note": " If you use small bosc pears, use one for garnish and the other for pear juice."
         },
         "Take the bowl of broth out of the freezer. Squeeze some cucumber brine into the broth and add the pear juice.",
         "Mix well and put the broth back in the fridge or freezer until the noodles are ready.",
         "Bring a large pot of water to a boil. Add the noodles and stir with a wooden spoon. Cover and let them cook for 3 to 5 minutes.",
         {
-          "step": "Take a sample to taste. When you chew the noodles, there shouldn’t be any hard stuff inside.",
-          "text": "Be sure not to overcook them or they’ll go soggy."
+          "text": "Take a sample to taste. When you chew the noodles, there shouldn’t be any hard stuff inside.",
+          "note": "Be sure not to overcook them or they’ll go soggy."
         },
         "Strain and rinse the noodles in cold running water until they aren’t slippery any more and are well cooled.",
         "Fill a large bowl with cold water and some ice cubes. Add the noodles and rinse them a final time.",

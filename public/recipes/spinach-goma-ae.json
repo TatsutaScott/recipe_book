@@ -59,8 +59,8 @@
         "Grind the toasted sesame seeds with a mortar and pestle. Leave some sesame seeds unground for some texture.",
         "Add the sesame sauce seasonings to the ground sesame seeds and mix all together.",
         {
-          "step": "Put lightly salted water in a large pot and bring to boil. Once boiling, add the spinach from the stem side (takes longer to cook) and cook for 30-45 seconds.",
-          "text": "American spinach is very soft and we can eat it raw unlike Japanese spinach; therefore, cooking for 30-45 seconds is enough."
+          "text": "Put lightly salted water in a large pot and bring to boil. Once boiling, add the spinach from the stem side (takes longer to cook) and cook for 30-45 seconds.",
+          "note": "American spinach is very soft and we can eat it raw unlike Japanese spinach; therefore, cooking for 30-45 seconds is enough."
         },
         "Remove the spinach from the water and soak in iced water to stop cooking with remaining heat. Alternatively, drain and run the spinach under cold running water until cool. Collect the spinach and squeeze water out.",
         "Cut the spinach into 1-2” (2.5-5 cm) lengths and put in a medium bowl.",

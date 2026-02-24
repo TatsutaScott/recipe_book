@@ -94,8 +94,8 @@
         "Gather all the ingredients.",
         "Chop the onion finely. With the knife tip pointing toward the root, slice the onion to within ½ inch of the base. Make about ¼ inch parallel cuts. Then slice the onion horizontally about ¼ inch parallel cuts.",
         {
-          "step": "Then cut perpendicular to the first slices you made. If the onions need to be chopped finer, you can run your knife through them in a rocking motion.",
-          "text": "Be sure to hold down the tip of the knife; otherwise, the onions are going to go flying around."
+          "text": "Then cut perpendicular to the first slices you made. If the onions need to be chopped finer, you can run your knife through them in a rocking motion.",
+          "note": "Be sure to hold down the tip of the knife; otherwise, the onions are going to go flying around."
         },
         "Cut the celery into 4-inch pieces, then thin sticks, and mince them.",
         "Cut the carrot into 4-inch thin slabs, then thin sticks, and mince them.",
@@ -105,17 +105,17 @@
         "Season with salt and pepper",
         "Add celery, carrots, and shiitake mushrooms and mix well with the rest of the ingredients.",
         {
-          "step": "Add chicken stock and water.",
-          "text": "Add more water, if necessary, so the cooking liquid covers the ingredients."
+          "text": "Add chicken stock and water.",
+          "note": "Add more water, if necessary, so the cooking liquid covers the ingredients."
         },
         {
-          "step": "Add curry powder and mix well. Cover and bring it to boil. Reduce heat to medium-low heat and cook covered until the vegetables are tender, about 6-8 minutes",
-          "text": "Skim off the scum and foam on the surface with a fine-mesh skimmer as necessary."
+          "text": "Add curry powder and mix well. Cover and bring it to boil. Reduce heat to medium-low heat and cook covered until the vegetables are tender, about 6-8 minutes",
+          "note": "Skim off the scum and foam on the surface with a fine-mesh skimmer as necessary."
         },
         "Add curry roux (one piece at a time!) and butter and let them dissolved completely. The curry will thicken as it's heated up. Adjust the thickness of the curry with water/broth. You can make it soupy if you prefer.",
         {
-          "step": "Add ketchup and Tonkatsu sauce. Mix well and simmer for 3-5 minutes.",
-          "text": "If the sauce is too thick, add a small amount of water to adjust."
+          "text": "Add ketchup and Tonkatsu sauce. Mix well and simmer for 3-5 minutes.",
+          "note": "If the sauce is too thick, add a small amount of water to adjust."
         },
         "Serve the Keema Curry over steamed rice and top with a fried egg, if you like."
       ]
