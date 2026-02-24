@@ -1,0 +1,66 @@
+{
+  "title":{ "en":"French Toast"},
+  "source": "https://www.justonecookbook.com/french-toast/",
+  "time":"000035",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "28032023",
+  "tags": ["Breakfast", "Main", "Bread"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Large Eggs",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Sugar",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Whole Milk",
+          "amount": 2.5,
+          "unit": "c"
+        },
+        {
+          "name": "French Beguette",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Gather all the ingredients.",
+        "In a large bowl, beat the **eggs**.",
+        "Add **¼ cup sugar** and **½ tsp vanilla**. Whisk well to combine.",
+        "Add **2 ½ cup milk** and whisk well together.",
+        "Cut the &**French baguette** into 1.5-2 inch (*4-5 cm*) thickness.",
+        "Soak both sides of the bread in the mixture and place them in a deep baking dish, with the soft white side facing up.",
+        "Pour the leftover mixture into the baking dish.",
+        "Let it soak for **5 minutes**, and flip to soak the other side for **5 minutes**. The side facing up now is the “dry” side. You can prepare fruits, powder sugar, and maple syrup during this time.",
+        "Preheat the oven to **350 ºF (*180 ºC*)**. Grease the rimmed baking sheet with butter. Heat **1-2 Tbsp butter** in the frying pan or griddle.",
+        "When the **butter** is melted and pan is hot, place the bread, facing the “dry” side DOWN. *The “dry” side is the side facing up in the image on the right.*",
+        "Cook until the bottom is golden brown. Then turn over to cook the other side until golden.",
+        "When both sides are nicely brown, transfer to the baking sheet.",
+        "Bake at **350ºF (*180ºC*)** for **6 minutes**. For a convection oven, reduce cooking temperature by **25ºF (*15ºC*)**."
+      ]
+    }
+  ]
+}
