@@ -1,0 +1,88 @@
+{
+  "title":{
+    "en":"Fake Chipotle Chicken", 
+    "lang":"en"
+  } ,
+  "source": "https://gimmedelicious.com/the-best-taco-grilled-chicken/",
+  "time": "000020",
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date": "28122023",
+  "tags": ["Mexican", "Chicken", "Main"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "amount": 1,
+          "unit": "lb",
+          "note": "Boneless, Skinless"
+        },
+        {
+          "name": "Garlic",
+          "amount": 2,
+          "unit": "clove"
+        },
+        {
+          "name": "Lime Juice",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Chili Powder",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cumin",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Paprika",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Oregano",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black Pepper",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Corn Starch",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+
+      "steps": [
+        "Add the chicken, garlic, olive oil, lime, spices, and cornstarch to a large bowl or zip-seal bag.",
+        "Place in fridge and let marinate for at least 15-30 minutes or up to 24 hours.",
+        "Remove chicken from marinade and discard marinade. Place chicken on a grill or pan heated to medium-high heat. Let chicken cook until it is no longer pink on the inside, about 6-7 minutes per side (or until it has reached an internal temperature of 165 degrees F).",
+        "Serve chicken in tacos, burritos, on salads or rice."
+      ]
+    }
+  ],
+  "notes": null
+}
