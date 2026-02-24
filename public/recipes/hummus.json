@@ -1,0 +1,85 @@
+{
+  "title": {"en":"Hummus"},
+  "source": "https://toriavey.com/toris-kitchen/classic-hummus/",
+  "time": "000010",
+  "servings": {
+    "amount": 12,
+    "unit": "Serving"
+  },
+  "date": "27122023",
+  "tags": ["Middle-Eastern", "Side", "Vegetarian"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "amount": 3.5,
+          "unit": "c",
+          "note": "canned or soaked and cooked"
+        },
+        {
+          "name": "Baking Soda",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Tahini",
+          "amount": 0.33,
+          "unit": "c"
+        },
+        {
+          "name": "Roasted Garlic",
+          "amount": 8,
+          "unit": "clove",
+          "note": "or fresh for a sharper flavor"
+        },
+        {
+          "name": "Lemon Juice",
+          "amount": 0.25,
+          "unit": "cup",
+          "note": "or more to taste"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "plus more for garnish"
+        },
+        {
+          "name": "Cumin",
+          "amount": 0.75,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "note": "or more to taste"
+        },
+        {
+          "name": "Cayenne",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "name": "Paprika and Fresh Minced Parsley for Garnish",
+          "amount": null,
+          "unit": null,
+          "note": "optional"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "If using canned chickpeas, drain and rinse them first. If cooking the beans, follow my soaking and cooking instructions here. Drain the beans after cooking and let them return to room temperature. To make this hummus ultra creamy, you should peel the cooked chickpeas. While this step is optional, I do recommend it for creamy results. To peel and remove the chickpea skins easily, place them in a skillet with 1 tbsp baking soda and stir, coating all the beans thoroughly with baking soda. Heat up the skillet over medium, stirring the beans constantly, for 2-3 minutes until the beans are completely heated throughout and the skins begin to separate from the beans.",
+        "Pour the hot beans into a large mixing bowl, then immerse them in 3-4 changes of cold water, agitating the beans with your hands to release the skins. Loose skins should float to the surface where they can easily be discarded with each batch of cold water. When most of the skins are gone, proceed with the recipe.",
+        "Another way of skinning the chickpeas (which takes a lot longer) is to take each chickpea and gently squeeze to remove the skin, then discard the skins before processing. While this step is not completely necessary, it will ensure that your hummus turns out very smooth and creamy.",
+        "Reserve about 15-20 whole chickpeas for garnish. Outfit your food processor with a blade attachment. Place chickpeas, tahini paste, roasted garlic, lemon juice, 1 tbsp olive oil, salt, cumin, and cayenne pepper into the processor. Process the mixture until it becomes a smooth, creamy hummus.",
+        "Taste the mixture and add more salt, lemon juice, or garlic to taste. Process again to blend any additional ingredients. If the texture seems too thick, add lukewarm water and continue to process until desired consistency is reached.",
+        "Transfer hummus to a shallow bowl and create a well in the center with a spoon. Garnish with reserved chickpeas, a drizzle of olive oil, and a sprinkle of paprika and minced fresh parsley. Serve with pita, crackers, or fresh vegetables for dipping."
+      ]
+    }
+  ]
+}
