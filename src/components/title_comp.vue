@@ -19,12 +19,13 @@
     </div>
     <div id="tags_container">
       <span class="basic-text"><strong>Tags:</strong> </span>
-      <span class="tag" v-for="tag in props.tags" :key="tag">{{tag}}</span>
+      <RouterLink v-for="tag in props.tags" :key="tag" class="tag" :to="{ name: 'TOC', query: { tags: tag } }"> {{ tag }} </RouterLink>
     </div>
   </div>
 </template>
 
 <script setup scss>
+import { RouterLink } from 'vue-router';
 import { computed, defineProps } from 'vue'
 import { formatDate, formatTime, addTimes} from '@/scripts/util';
 

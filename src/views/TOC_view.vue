@@ -17,11 +17,15 @@
 </template>
 
 <script setup>
-import { ref, onMounted, computed } from "vue";
+import { ref, onMounted, computed, watch} from "vue";
+import { useRoute, useRouter } from "vue-router";
 import recipe_thumb from "@/components/recipe_thumb_comp.vue";
 
+const route = useRoute();
+const router = useRouter();
+
 const recipe_index = ref([]);
-const selected_tags = ref(new Set()); // multi-select
+const selected_tags = ref(new Set());
 
 const all_tags = computed(() => {
   const tagSet = new Set();
@@ -36,15 +40,46 @@ const all_tags = computed(() => {
 });
 
 onMounted(async () => {
-  const base = import.meta.env.BASE_URL; // usually "/"
+  const base = import.meta.env.BASE_URL;
   recipe_index.value = await fetch(`${base}recipes-index.json`).then((r) => r.json());
+  syncFromQuery();
 });
 
+function parseTagsQuery(q) {
+  if (!q) return [];
+  const raw = Array.isArray(q) ? q.join(",") : String(q);
+  return raw
+    .split(",")
+    .map((t) => t.trim())
+    .filter(Boolean);
+}
+
+function syncFromQuery() {
+  const tags = parseTagsQuery(route.query.tags);
+  selected_tags.value = new Set(tags);
+}
+
+watch(
+  () => route.query.tags,
+  () => syncFromQuery()
+);
+
+function pushToQuery() {
+  const tags = [...selected_tags.value];
+  router.replace({
+    query: {
+      ...route.query,
+      ...(tags.length ? { tags: tags.join(",") } : {}) // remove if empty
+    }
+  });
+}
+
 function toggleTag(tag) {
-  const next = new Set(selected_tags.value); // clone so Vue reacts
+  const next = new Set(selected_tags.value);
   if (next.has(tag)) next.delete(tag);
   else next.add(tag);
   selected_tags.value = next;
+  pushToQuery();
 }
 
 const filtered_recipes = computed(() => {

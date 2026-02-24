@@ -8,8 +8,8 @@ import help_view from '@/views/help_view.vue'
 const routes = [
   { path: '/', component: home_view},
   { path: '/recipe/:slug', component: recipe_view },
-  { path: '/TOC', component: TOC_view },
-  {path: '/help', component: help_view}
+  { path: '/TOC', name:"TOC", component: TOC_view ,},
+  { path: '/help', component: help_view}
 ]
 
 const router = createRouter({
