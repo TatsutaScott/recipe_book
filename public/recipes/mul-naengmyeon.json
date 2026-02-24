@@ -1,0 +1,126 @@
+{
+  "title": {
+    "en": "Mul-naengmyeon",
+    "kr": "물냉면", 
+    "lang":"kr"
+  },
+  "source": "https://www.maangchi.com/recipe/naengmyeon",
+  "time": {
+    "active": "000020",
+    "passive": "000400"
+  },
+  "servings": {
+    "amount": 2,
+    "unit": "Serving"
+  },
+  "date": "26122023",
+  "tags": ["Korean", "Noodle", "Main"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Dried Naengmyeon Noodles",
+          "amount": 10,
+          "unit": "oz"
+        },
+        {
+          "name": "Naengmyeon Broth",
+          "amount": 2,
+          "unit": "packet",
+          "note": "liquid or powdered"
+        },
+        {
+          "name": "Mustard Oil",
+          "amount": 2,
+          "unit": "packet"
+        },
+        {
+          "name": "Cucumber",
+          "amount": 0.5,
+          "unit": null,
+          "note": "cut into thin strips"
+        },
+        {
+          "name": "Asian Pear",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Kosher Salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vinegar",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "White or Apple Cider"
+        },
+        {
+          "name": "Hard Boiled Egg",
+          "amount": 1,
+          "unit": null,
+          "note": "cut into halves"
+        },
+        {
+          "name": "Toasted Sesame Seeds",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "ground"
+        },
+        {
+          "name": "Ingredient 1",
+          "amount": 1,
+          "unit": "c",
+          "note": "whole number"
+        },
+        {
+          "name": "Ice",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Open the packets of the concentrated broth and put them into a bowl. Mix with 4 cups of water.",
+        "Keep in the freezer for 4 to 5 hours so it gets slushy.",
+        "Make quick pickled cucumbers by combining the sliced cucumber, kosher salt, ½ teaspoon sugar, and vinegar in a bowl. Mix it well and set aside.",
+        "Make sugar water by mixing 1 cup of water and 1 teaspoon sugar.",
+        "Peel the pear and slice into halves. Slice one half into thin strips and soak them in the sugar water to keep them from going brown.",
+        {
+          "step": "Grate the other half of the pear and squeeze out the juice using a cotton cloth or cheesecloth. You should get about ½ cup of pear juice.",
+          "text": " If you use small bosc pears, use one for garnish and the other for pear juice."
+        },
+        "Take the bowl of broth out of the freezer. Squeeze some cucumber brine into the broth and add the pear juice.",
+        "Mix well and put the broth back in the fridge or freezer until the noodles are ready.",
+        "Bring a large pot of water to a boil. Add the noodles and stir with a wooden spoon. Cover and let them cook for 3 to 5 minutes.",
+        {
+          "step": "Take a sample to taste. When you chew the noodles, there shouldn’t be any hard stuff inside.",
+          "text": "Be sure not to overcook them or they’ll go soggy."
+        },
+        "Strain and rinse the noodles in cold running water until they aren’t slippery any more and are well cooled.",
+        "Fill a large bowl with cold water and some ice cubes. Add the noodles and rinse them a final time.",
+        "Drain the noodles and divide them into 2 large shallow bowls.",
+        "Pour the icy broth into each bowl.",
+        "Place the cucumber and pear on top.",
+        "Add a packet of mustard oil to each bowl.",
+        "Sprinkle with some sesame seeds powder. Add a half egg on top of each bowl.",
+        "Serve right away."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Fast Version",
+      "text": "If you can’t make the broth in advance, make the broth with only 2 cups of water and add 2½ cups of ice cubes. Keep it in the fridge while you prepare everything else, and take it out just when you’re ready to serve."
+    }
+  ]
+}
