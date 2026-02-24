@@ -19,6 +19,13 @@ $color_text_muted: #7E7F83;
 
 $test:#ff00ff;
 
+//breakpoints for responsive styling
+$breakpoints: (
+  sm: 640px,   // large phones / small tablets
+  md: 768px,   // tablet
+  lg: 1024px   // desktop
+);
+
 //mixins
 @mixin dashed-rounded($color: $color_text_muted){
   border: 1pt dashed $color;
@@ -57,6 +64,14 @@ $test:#ff00ff;
   @if $right { border-right: $width $style $color; }
   @if $bottom { border-bottom: $width $style $color; }
   @if $left { border-left: $width $style $color; }
+}
+
+@mixin respond($size) {
+  $width: map-get($breakpoints, $size);
+
+  @media (min-width: $width) {
+    @content;
+  }
 }
 
 // Text Classes
