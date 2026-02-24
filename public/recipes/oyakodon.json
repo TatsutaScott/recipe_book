@@ -1,0 +1,94 @@
+{
+  "title": {
+    "en": "Oyakodon",
+    "jp": "親子丼", 
+    "lang":"jp"
+  },
+  "source": "https://www.justonecookbook.com/oyakodon/",
+  "time": "000030",
+  "servings": {
+    "amount": 2,
+    "unit": "Serving"
+  },
+  "date": "26122023",
+  "tags": ["Japanese", "Donburi", "Main", " Chicken"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "amount": 2,
+          "unit": null,
+          "note": "Boneless, Skinless"
+        },
+        {
+          "name": "Onion",
+          "amount": 0.5,
+          "unit": null
+        },
+        {
+          "name": "Large Eggs",
+          "amount": 2,
+          "unit": null
+        },
+        {
+          "name": "Dashi",
+          "amount": 0.5,
+          "unit": "c"
+        },
+        {
+          "name": "Mirin",
+          "amount": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "amount": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Green Onion",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Gather all the ingredients.",
+        "Combine dashi, mirin, sake, soy sauce in a bowl or a liquid measuring cup.",
+        {
+          "step": "Add sugar and mix all together until sugar is dissolved. Depending on the frying pan sizes, you may not need all the broth.",
+          "text": "You can keep the leftovers in the refrigerator for 3 days."
+        },
+        {
+          "step": "Thinly slice the onion and chop green onion. Beat one egg in a small bowl",
+          "text": "you will need to beat another egg when you work on the second batch"
+        },
+        "Slice the chicken thigh diagonally and cut into 1.5\" pieces.",
+        "Typically Oyakodon (and Katsudon) is made individually for each serving, using this Oyakodon Pan. This small pan lets you slide the finished dish over the rice bowl easily while the egg is set but still runny (in Japan, eggs are safe to eat raw). To demonstrate in this recipe, I use a small 8-inch frying pan. Divide the ingredients in half. Of course, alternatively, you can cook 2 servings together in a big pan.",
+        "Add 1 serving of the onion in a single layer. Pour roughly ⅓ to ½ of the seasonings mixture (depending on the size of your frying pan, the amount may vary). Pour just enough sauce to cover the onion.",
+        "Add 1 serving of chicken on top of the onion. Make sure the onion and chicken are evenly distributed. Turn on the heat to medium heat and bring to a boil.",
+        "Once boiling, lower the heat to medium-low heat. Skim off any foam or scum if you see. Cover and cook for about 5 minutes or until chicken is no longer pink and onion is tender.",
+        {
+          "step": "Taste the broth and see if you need to adjust. Slowly drizzle the beaten egg over the chicken and onion. Cook covered on medium-low heat until the egg is done to your liking.",
+          "text": "Usually, Oyakdon in Japan is served while the egg is almost set but runny."
+        },
+        "Add the green onion right before removing from the heat. Transfer the chicken and egg over the steamed rice and drizzle the desired amount of remaining sauce.",
+        "Serve Oyakodon with shichimi togarashi on the side if you like."
+      ]
+    }
+  ]
+}
