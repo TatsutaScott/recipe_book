@@ -1,0 +1,65 @@
+{
+  "title": {
+    "en": "All Purpose Biscuits", 
+    "lang": "en"
+  },
+  "source": "https://cooking.nytimes.com/recipes/1013741-all-purpose-biscuits",
+  "time": {
+    "active":"000005",
+    "passive":"000055"
+  },
+  "servings": {
+    "amount": 8,
+    "unit": "Biscuit"
+  },
+  "date": "03282023",
+  "tags": ["Bread", "Dinner", "American", "Side"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "All purpose flour",
+          "amount": 2,
+          "unit": "c"
+        },
+        {
+          "name": "Baking Powder",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 5,
+          "unit": "tbsp",
+          "note": "Cold"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Whole Milk",
+          "amount": 1,
+          "unit": "c"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": "",
+      "steps": [
+        "Preheat oven to 425. Sift flour, baking powder, sugar and salt into a large mixing bowl. Transfer to a food processor. Cut butter into pats and add to flour, then pulse 5 or 6 times until the mixture resembles rough crumbs. (*Alternatively, cut butter into flour in the mixing bowl using a fork or a pastry cutter.*) Return dough to bowl, add milk and stir with a fork until it forms a rough ball.",
+        "Turn the dough out onto a well-floured surface and pat it down into a rough rectangle, about an inch thick. Fold it over and gently pat it down again. Repeat. Cover the dough loosely with a kitchen towel and allow it to rest for 30 minutes.",
+        "Gently pat out the dough some more, so that the rectangle is roughly 10 inches by 6 inches. Cut dough into biscuits using a floured glass or biscuit cutter. Do not twist cutter when cutting; this crimps the edges of the biscuit and impedes its rise.",
+        "Place biscuits on a cookie sheet and bake until golden brown, approximately 10 to 15 minutes."
+      ]
+    }
+  ]
+}
