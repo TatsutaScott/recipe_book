@@ -1,0 +1,90 @@
+{
+  "title": {
+    "en":"Silkiest Chocolate Buttercream",
+    "lang":"en"
+  },
+  "source": {
+    "title": "Dessert Person",
+    "author": "Claire Saffitz"
+  },
+  "time": "000035",
+  "servings": {
+    "amount": 4,
+    "unit": "cup"
+  },
+  "date": "02012024",
+  "tags": ["Dessert", "Baking", "Ingredient"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Large Egg",
+          "amount": 2,
+          "unit": null,
+          "note": "room temperature"
+        },
+        {
+          "name": "Large Egg Yolks",
+          "amount": 2,
+          "unit": null,
+          "note": "room temperature"
+        },
+        {
+          "name": "Sugar",
+          "amount": 0.75,
+          "unit": "c"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 2.5,
+          "unit": "stick",
+          "note": "Cut into tablespoons, at room temperature"
+        },
+        {
+          "name": "Semisweet Chocolate",
+          "amount": 8,
+          "unit": "oz",
+          "note": "(preferably 68 to 70% cacao) melted and cooled"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "Diamond Crystal Kosher"
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title": "Section 1",
+      "steps": [
+        "Since the first part of making the buttercream requires simultaneous operations, have all the ingredients measured out. Put the whole eggs and yolks in the bowl of a stand mixer and attach the whisk. In a small saucepan, combine the sugar and 3 tablespoons water and set aside. Make sure your butter is thoroughly at room temperature and your chocolate is melted and cooled.",
+        "Turn the mixer on medium-low just to break up the eggs, then add the salt and icnrease to medium speed. Continue to beat until the mixture is very light and pale and it falls off the end of the whisk and onto itself in a slowly dissolving ribbon, about 5 minutes. While you're waiting for this, pivot to the sugar.",
+        "Heat the sugar mixture over medium-high heat, stirring with a heatproof spatula until dissolved and you have a clear syrup. Stop stirring when the mixture comes to a boil, then use a wet pastry brush down the sides of the pan, dissolving any sugar crystals. Using an instat-read thermometer or clipping a candy thermometer to the side of the pan, boil, swirling the pan occasionally, until the mixture registers 230°F. Reduce the heat to medium-low and continue to cook, swirling the pan, until the syrup hits 238°F. While all this is happening, keep an eye on the eggs and stop the mixer if they've formed a ribbon. Don't walk away! You want the sugar and eggs to be ready at the same time.",
+        "When the syrup reaches 238°F, remove it from the heat immediately. If you've stopped the mixer, turn it on medium-high and slowly and carefully stream the syrup down the side of the bowl into the egg mixture. Avoid pouring onto the whisk because this will splatter sugar around the bowl; aim for the point just where the eggs meet the side of the bowl. Continure to steadily pour in the syrup until you've added it all. The eggs should get thicker, paler, and denser.",
+        "Increase the mixer to high and continue to beat until the egg mixture is very light and dense and the sides of the bowl are completely cool to the touch, 5 to 8 minutes.",
+        "When the egg mixture is very room temperature, add the butter one piecce at a time, making sure each piece incorporated smoothly into the mixture before adding the next. If the eggs are still a bit warm when you start to add the butter, the residual heat will cause the butter to melt and your buttercream will look soupy. If this happens, just keep beating the mixture. If the butter is too cold, it won't emulsify smoothly into the eggs and the buttercream will have a curdled look. In either case, just keep beating to let the temperature equalize. I promise the butter cream will come back togerther. Scrape down the sides of the bowl often and keep gradually adding the butter until it's all incorporated and you have a smooth, glossy, light buttercream.",
+        {
+          "text": "Stop the mixer, scrape down the sides, and add the chocolate and vanilla. Beat on medium speed until no streaks remain, scraping the bottom and sides again if needed. The buttercream is now ready to use.",
+          "note": "Make sure the chocolate is completely cooled before adding it to the buttercream, otherwise it will warm the butter and and deflate your hard-earned buttercream. At the same time, it should still be very liquid (I know, it's a dance!). If the chocolate has started to set, it could form tiny hardened bits when it hits the cool buttercream, marring the smooth finish of the frosting. It's nto as delicate as it sounds, since melted chocolate can sit at room temperature for quite a while before it sets, so just don't melt it too far in advance. \nIt is possible to overwhip buttercream, which will make it so fluffy and filled with air bubbles that it will be difficult to smooth over a cake. If this happens, put it back in the mixer and beat with the paddle attachment on medium for a few minutes, which will knock out some of the air."
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Do Ahead",
+      "text": "The buttercream, refrigerated in an airtight container with plastic wrap pressed directly onto the surface, will keep up to 1 week or can be frozen up to 1 month (let it thaw for 24 hours in the refrigerator). Before using, let the butter cream sit at room temperature for several hours until it's spreadable, then put it back in the stand mixer and beat with the paddle attachment on medium speed until smooth."
+    },
+    {
+      "title": "Picking Chocolate",
+      "text": "Use a good-quality chocolate, preferably one that comes in a block or in disks. Claire Saffitz uses the following brands: Guittard, Callebaut, or Valrhona. Don't use chocolate chips, which often have added stabilizers."
+    }
+  ]
+}
