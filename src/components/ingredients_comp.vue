@@ -5,10 +5,13 @@
       <p class="note" v-if="section.note">{{ section.note }}</p>
       <div class="ingredient_container">
         <div class="ingredient" v-for="ingredient in section.ingredients" :key="ingredient">
-          <span class="basic-text">{{ingredient.name}}</span>
-          <span class="basic-text" v-if="ingredient.unit">{{ `${formatNumber(ingredient.amount)} ${ingredient.unit}`}}</span>
-          <span class="basic-text" v-else>{{ `${formatNumber(ingredient.amount)}`}}</span>
-          <span class="note" v-if="ingredient.note">{{ ingredient.note }}</span>
+          <div class="ingredient-name-container">
+            <span class="basic-text">{{ingredient.name}}</span>
+            <span class="note" v-if="ingredient.note">{{ ingredient.note }}</span>
+          </div>
+          <div class="connecting-line"></div>
+          <span class="basic-text ingredient-amount" v-if="ingredient.unit">{{ `${formatNumber(ingredient.amount)} ${ingredient.unit}`}}</span>
+          <span class="basic-text ingredient-amount" v-else>{{ `${formatNumber(ingredient.amount)}`}}</span>
         </div>
       </div>
     </div>
@@ -31,10 +34,10 @@ const props = defineProps({ingredients: { type: Array}});
 }
 
 .ingredient{
-  display: grid;
-  grid-template-columns: 5fr 1fr;
+  @include row($justify: space-between);
   padding: 0.125em 0.5em;
   border-radius: 5px;
+  transition: 0.5s;
 }
 
 .ingredient:hover{
@@ -43,5 +46,16 @@ const props = defineProps({ingredients: { type: Array}});
 
 .ingredient_container{
   padding: 0.5em 0;
+}
+
+.ingredient-name-container{
+  @include column($align: start, $gap: 0);
+}
+
+.connecting-line{
+ background-color: $color_gray;
+ width: 100%;
+ flex: 1;
+ height: 1px;
 }
 </style>

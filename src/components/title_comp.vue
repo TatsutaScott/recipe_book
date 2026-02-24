@@ -81,6 +81,7 @@ const format_servings = (servings) => {
   @include dashed-rounded($color: $color-text-accent);
   padding: 0.25em;
   color: $color-text-accent;
+  transition: 0.5s;
 }
 
 #source:hover {

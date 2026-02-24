@@ -29,6 +29,7 @@ const props = defineProps({directions: Array});
 .step{
   padding: 0.25em 0.5em;
   border-radius: 5px;
+  transition: 0.5s;
 }
 
 .step:hover{

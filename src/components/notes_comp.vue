@@ -28,7 +28,8 @@ const props = defineProps({notes: { type: Array}});
   justify-content:start;
   gap: 1em;
   padding: 0.25rem 0.25rem;
-    width: 100%;
+  width: 100%;
+  transition: 0.5s;
 }
 
 .note_div:hover{

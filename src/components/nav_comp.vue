@@ -15,8 +15,7 @@
   @include section;
   width: 100%;
   max-width: 1000px;
-  display: flex;
-  justify-content: space-between;
+  @include row($justify: space-between, $align: center);
   background-color: $color_bg;
   margin: 0.5em;
   padding: 0.5em;
