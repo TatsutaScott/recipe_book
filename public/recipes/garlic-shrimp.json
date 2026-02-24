@@ -1,0 +1,74 @@
+{
+  "title": {"en":"Garlic Shrimp"},
+  "source": "https://onolicioushawaii.com/hawaiian-garlic-shrimp/",
+  "time": "000015",
+  "servings": {
+    "amount": 2,
+    "unit": "Serving"
+  },
+  "date": "23122023",
+  "tags": ["Hawaiian", "Shrimp", "Main", "Fish"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Shrimp",
+          "amount": 12,
+          "unit": "oz"
+        },
+        {
+          "name": "Mochiko",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Paprika",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cayenne",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Garlic",
+          "amount": 1,
+          "unit": "head",
+          "note": "minced"
+        },
+        {
+          "name": "Butter",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lemon",
+          "amount": 1,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Pat the shrimp dry and set aside.",
+        "Combine mochiko, paprika, cayenne pepper, and salt in a mixing bowl. Add the shrimp, toss to coat, and set aside.",
+        "In a large pan, melt the butter over medium heat. Once melted, add the garlic and cook till toasty and golden brown (about 3 minutes). Pour the garlic and butter out into a bowl.",
+        "Add olive oil to the skillet. Once the oil is warm, add the shrimp (single layer only, do this in two batches if needed). Cook the shrimp for about 2 minutes on each side, till it's nicely crisp and browned.",
+        "Pour the garlic butter back into the pan, and mix with the shrimp. Cook for another minute, and then you're done! Squeeze lemon all over and eat with rice."
+      ]
+    }
+  ]
+}
