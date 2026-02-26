@@ -1,4 +1,9 @@
 <template>
-  <h1>Under construction</h1>
+  <h1 class="title">under construction</h1>
 </template>
 
+
+<style lang="scss" >
+@use '@/static/styles/global' as *;
+@use '@/static/styles/fonts.scss' as *;
+</style>
