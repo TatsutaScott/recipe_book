@@ -1,9 +1,9 @@
 <template>
   <div class="nav_container">
-    <a class="link" href="/"><span class="material-icons">home</span></a>
-    <a class="link" href="/help"><span class="material-icons">help</span></a>
-    <a class="link" href="/tools"><span class="material-icons">calculate</span></a>
-    <a class="link" href="/TOC"><span class="material-icons">menu</span></a>
+    <a class="link icon" href="/"><span class="material-icons">home</span></a>
+    <a class="link icon" href="/help"><span class="material-icons">help</span></a>
+    <a class="link icon" href="/tools"><span class="material-icons">calculate</span></a>
+    <a class="link icon" href="/TOC"><span class="material-icons">article</span></a>
   </div>
 </template>
 
@@ -30,6 +30,10 @@
   color: $color_text_base;
   transition: all 0.5s;
   line-height: 10pt;
+}
+
+.icon{
+  color:$color_text_accent;
 }
 
 .link:hover {
