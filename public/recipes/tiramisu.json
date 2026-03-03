@@ -1,0 +1,98 @@
+{
+  "title": {"en": "tiramisu"},
+  "source": "https://cloudykitchen.com/blog/small-batch-tiramisu/",
+  "time": {
+    "active": "000030",
+    "passive":  "000400"
+  },
+  "servings": {
+    "amount": 6,
+    "unit": "serving"
+  },
+  "date": "03032026",
+  "tags":["Italian", "Dessert", "Cold"],
+  "ingredients": [
+    {
+      "section_title": "Filling", 
+      "ingredients":[
+        {
+            "name":"Large Egg Yolks", 
+            "amount": 1, 
+            "unit": null, 
+            "note":"room temperature"
+        }, 
+        {
+            "name":"Caster Sugar", 
+            "amount": 100, 
+            "unit":"g"
+        },  
+        {
+            "name":"Mascarpone", 
+            "amount": 270, 
+            "unit":"g", 
+            "note":"room temperature"
+        }, 
+        {
+            "name":"Heavy Cream", 
+            "amount": 270, 
+            "unit":"g"
+        }, 
+        {
+            "name":"Vanilla Bean Paste", 
+            "amount": 0.5, 
+            "unit":"tsp"
+        }
+      ]
+    }, 
+    {
+      "section_title": "Assembly",
+      "ingredients":[
+        {
+            "name":"Strong Coffee", 
+            "amount": 330, 
+            "unit":"g", 
+            "note":"cold"
+        }, 
+        {
+            "name":"Lady Fingers", 
+            "amount": 24, 
+            "unit": null
+        }, 
+        {
+            "name":"Dutch Cocoa", 
+            "amount": null, 
+            "unit": null, 
+            "note": "for dusting"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title":"Filling", 
+      "steps":[ 
+        "Lightly whisk the egg yolks in a medium heatproof bowl. Add the sugar and whisk well to combine. Create a double boiler by placing a small to medium saucepan of water on the stove, and bring to a boil, then reduce to a simmer.",
+        "Place the bowl on top of the saucepan, making sure that the water does not touch the bowl. Whisking continuously, cook the mixture for 9-10 minutes, until the sugar has dissolved and the mixture is thick. To test that the sugar has dissolved, rub between your thumb and finger to feel for grains. ",
+        "Remove the mixture from the heat and leave to stand for 3-4 minutes, whisking occasionally, to allow it to cool slightly. ",
+        "Once the egg mixture has cooled slightly, add the mascarpone and whisk in until just combined. Leave to cool further while you whip the cream. ",
+        "Using an electric hand mixer or a whisk, whip the cream with the vanilla until stiff peaks form. Ensure that you do not over whip it, as it will make your mixture grainy. I prefer to whip to soft peaks and then finish by hand. ",
+        "Fold the whipped cream into the egg and mascarpone mixture and mix to combine."
+        ]
+    }, 
+    {
+      "section_title":"Assembly", 
+      "steps":[
+        "Assemble all your components - the coffee mixed with kahlua if using, the lady fingers, and the tiramisu filling. Have a 9\"x5\" (23x13cm) loaf pan ready to go. ",
+        "Make the first layer by dunking the lady fingers in the coffee mixture one at a time, for no longer than 1 second each. You do not want them to get completely wet - just to moisten. They will absorb more liquid as the tiramisu sets. Arrange 8 of the soaked lady fingers in the bottom of the loaf pan - you may need to snuggle them in.",
+        "Add a third of the filling mixture - about 225g. Spread gently over the lady fingers to smooth, then tap the pan on the counter a few times to get rid of any big bubbles. Top with a dusting of cocoa powder. ",
+        "Repeat the layering process with another 8 lady fingers dunked in the coffee mix and 225g more of the filling, then smooth and add cocoa powder. ",
+        "Do one final layer of lady fingers, then top with the remainder of the filling. Smooth out with an offset spatula. Leave off the cocoa powder until just before serving. Cover the pan with plastic wrap then leave to set in the fridge for at least 4 hours, or up to overnight. Remove the plastic wrap and dust with cocoa powder before serving.",
+        "Store leftovers in an airtight container in the fridge. "
+       ]
+    }
+  ],
+  "notes":[
+    {"title":"Note on notes", "text":"some notes have titles"}, 
+    "other notes don't"
+  ]
+}
