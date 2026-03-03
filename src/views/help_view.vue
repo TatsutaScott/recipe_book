@@ -1,9 +1,8 @@
 <template>
-  <h1 class="title">under construction</h1>
+  <construction />
 </template>
 
 
-<style lang="scss" >
-@use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
-</style>
+<script setup>
+import construction from '@/components/construction_comp.vue';
+</script>
