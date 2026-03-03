@@ -1,0 +1,17 @@
+{
+    "c": {"label": "cup(s)", "type": "volume"},
+    "tbsp": {"label": "tablespoon(s)", "type": "volume" },
+    "tsp": {"label": "teaspoon(s)", "type": "volume" },
+    "floz": {"label": "ounce(s)", "type": "volume" },
+    "pint": {"label": "pint(s)", "type": "volume" },
+    "quart": {"label": "quart(s)", "type": "volume" },
+    "gallon": {"label": "gallon(s)" , "type": "volume"},
+    "ml": {"label": "mililiter(s)", "type": "volume" },
+    "l": {"label": "liter(s)", "type": "volume" },
+    "c_deg": {"label": "celcius", "type": "temperature"}, 
+    "f_deg": {"label": "fahrenheit", "type": "temperature"},
+    "oz": {"label": "ounce(s)", "type": "weight" }, 
+    "lb": {"label": "pound(s)", "type": "weight" }, 
+    "g": {"label": "gram(s)", "type": "weight" }, 
+    "kg": {"label": "kilogram(s)", "type": "weight" }
+}

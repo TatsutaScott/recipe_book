@@ -1,0 +1,444 @@
+{
+    "flour_ap": {
+      "label": "All-Purpose Flour",
+      "grams": 125, 
+      "type": "Flours & Starches"
+    }, 
+    "flour_bread":{
+      "label": "Bread Flour",
+      "grams": 120, 
+      "type": "Flours & Starches"
+    }, 
+    "flour_00":{
+      "label": "00 Flour",
+      "grams": 116, 
+      "type": "Flours & Starches"
+    },
+    "flour_buckwheat":{
+      "label": "Buckwheat  Flour",
+      "grams": 120, 
+      "type": "Flours & Starches"
+    }, 
+    "flour_wheat":{
+      "label": "Wheat Flour",
+      "grams": 113, 
+      "type": "Flours & Starches"
+    },
+    "mochiko": {
+      "label":"Mochiko",
+      "grams": 120, 
+      "type": "Flours & Starches"
+    },
+    "cornstarch": {
+      "label": "Cornstarch",
+      "grams": 112, 
+      "type": "Flours & Starches"
+    },
+    "cornmeal": {
+      "label": "Cornmeal",
+      "grams": 156, 
+      "type": "Flours & Starches"
+    },
+    "honey": {
+        "label": "Honey",
+        "grams": 336, 
+        "type":"Sugars & Sweeteners" 
+    }, 
+    "corn_syrup": {
+        "label": "Corn Syrup",
+        "grams": 312, 
+        "type":"Sugars & Sweeteners" 
+    }, 
+    "sugar_powdered": {
+        "label": "Powdered Sugar",
+        "grams": 113, 
+        "type":"Sugars & Sweeteners" 
+    },
+    "sugar_granulated": {
+        "label": "Granulated Sugar", 
+        "grams": 198, 
+        "type":"Sugars & Sweeteners" 
+    }, 
+    "sugar_brown": {
+        "label": "Brown Sugar",
+        "grams": 213, 
+        "type":"Sugars & Sweeteners" 
+    }, 
+    "molasses": {
+        "label": "Molasses", 
+        "grams": 340, 
+        "type":"Sugars & Sweeteners" 
+    },
+    "maple_syrup": {
+        "label":"Maple Syrup", 
+        "grams": 156,
+        "type": "Sugars & Sweeteners" 
+    },
+    "milk": {
+        "label":"Milk",
+        "grams": 249, 
+        "type": "Dairy"
+    },
+    "milk_condensed":{
+        "label":"Condensed Milk",
+        "grams": 312, 
+        "type": "Dairy"
+    },
+    "milk_evaporated": {
+        "label":"Evaporated Milk",
+        "grams": 226, 
+        "type": "Dairy"
+    }, 
+    "milk_butter": {
+        "label":"Buttermilk",
+        "grams": 227, 
+        "type": "Dairy"
+    },  
+    "cream": {
+        "label":"HEavy Cream",
+        "grams": 227, 
+        "type": "Dairy"
+    }, 
+    "sour_cream": {
+        "label":"Sour Cream",
+        "grams": 227, 
+        "type": "Dairy"
+    }, 
+    "yogurt": {
+        "label":"Yogurt",
+        "grams": 227, 
+        "type": "Dairy"
+    },
+    "cheese_cream": {
+        "label":"Cream Cheese",
+        "grams": 227, 
+        "type": "Dairy"
+    }, 
+    "cheese_ricotta": {
+        "label":"Ricotta",
+        "grams": 227, 
+        "type": "Dairy"
+    },
+    "cheese_hard": {
+        "label":"Hard Cheese",
+        "grams": 100, 
+        "type": "Dairy"
+    }, 
+    "cheese_semihard": {
+        "label":"Semi-Hard Cheese",
+        "grams": 113, 
+        "type": "Dairy"
+    }, 
+    "cheese_feta": {
+        "label":"Feta",
+        "grams": 114, 
+        "type": "Dairy"
+    }, 
+    "cheese_cottage": {
+        "label":"Cottage Cheese",
+        "grams":226, 
+        "type":"Dairy"
+    }, 
+
+    "butter":{
+        "label":"Butter",
+        "grams": 227, 
+        "type": "Fats & Oils"
+    }, 
+    "oil_vegetable": {
+        "label":"Vegetable Oil",
+        "grams": 198,
+        "type": "Fats & Oils"
+    }, 
+    "oil_olive": {
+        "label":"Olive Oil",
+        "grams": 200,
+        "type": "Fats & Oils"
+    }, 
+    "oil_coconut": {
+        "label":"Coconut Oil",
+        "grams": 226,
+        "type": "Fats & Oils"
+    }, 
+    "oil_sesame":{
+        "label":"Oil Sesame",
+        "grams": 230,
+        "type": "Fats & Oils"
+    },
+    "lard": {
+        "label":"Lard",
+        "grams": 226,
+        "type": "Fats & Oils"
+    }, 
+    "shortening": {
+        "label":"Shortening",
+        "grams": 180, 
+        "type":"Fats & Oils"
+    }, 
+
+    "almonds_whole": {
+        "label": "Almonds (whole)",
+        "grams":142, 
+        "type": "Nuts & Seeds"
+    }, 
+    "almonds_slivered": {
+        "label": "Almonds (slivered)",
+        "grams":114, 
+        "type": "Nuts & Seeds"
+    }, 
+    "almonds_sliced": {
+        "label": "Almonds (sliced)",
+        "grams":86, 
+        "type": "Nuts & Seeds"
+    }, 
+    "walnuts_chopped": {
+        "label": "Walnuts (chopped)",
+        "grams":113, 
+        "type": "Nuts & Seeds"
+    }, 
+    "walnuts_whole": {
+        "label": "Walnuts (whole)",
+        "grams":128, 
+        "type": "Nuts & Seeds"
+    }, 
+    "sesame_seeds": {
+        "label": "Sesame Seeds",
+        "grams":142, 
+        "type": "Nuts & Seeds"
+    }, 
+    "pumpkin_seeds":{
+        "label": "Pumpkin Seeds",
+        "grams":160, 
+        "type": "Nuts & Seeds"
+    }, 
+    "poppy_seeds": {
+        "label": "Poppy Seeds",
+        "grams":144, 
+        "type": "Nuts & Seeds"
+    }, 
+    "pistachio": {
+        "label": "Pistachios (whole)",
+        "grams":120, 
+        "type": "Nuts & Seeds"
+    }, 
+    "pine_nuts": {
+        "label": "Pine Nuts",
+        "grams":142, 
+        "type": "Nuts & Seeds"
+    }, 
+    "pecans_whole": {
+        "label": "Pecans (whole)",
+        "grams":105, 
+        "type": "Nuts & Seeds"
+    }, 
+    "pecans_diced": {
+        "label": "Pecans (diced)",
+        "grams":114, 
+        "type": "Nuts & Seeds"
+    }, 
+    "peanuts": {
+        "label": "Peanuts (whole)",
+        "grams":142, 
+        "type": "Nuts & Seeds"
+    }, 
+    "peanut_butter": {
+        "label": "Peanut Butter",
+        "grams":270, 
+        "type": "Nuts & Seeds"
+    }, 
+    "cashews_whole": {
+        "label": "Cashews (whole)",
+        "grams":113, 
+        "type": "Nuts & Seeds"
+    }, 
+    "cashews_chopped": {
+        "label": "Cashews (chopped)",
+        "grams":113, 
+        "type": "Nuts & Seeds"
+    }, 
+    "hazelnut_whole": {
+        "label":"Hazelnut (whole)", 
+        "grams": 142, 
+        "type": "Nuts & Seeds"
+    },
+    "oats": {
+        "label": "Oats",
+        "grams": 85, 
+        "type": "Grains"
+    }, 
+    "rice_long":{
+        "label":"Rice (Long Grain)", 
+        "grams":185, 
+        "type":"Grains"
+    },
+    "rice_short":{
+        "label": "Rice (Short Grain)", 
+        "grams": 200, 
+        "type": "Grains"
+    }, 
+    "rice_brown": {
+        "label":"Rice (Brown)", 
+        "grams": 170, 
+        "type": "Grains"
+    },
+    "cocoa": {
+        "label":"Cocoa Powder", 
+        "grams": 85, 
+        "type": "Baking & Spices"
+    }, 
+    "baking_powder":{
+        "label":"Baking Powder", 
+        "grams": 192, 
+        "type": "Baking & Spices"
+    },
+    "baking_soda":{
+        "label":"Baking Soda", 
+        "grams": 288, 
+        "type": "Baking & Spices"
+    },
+    "vanilla": {
+        "label":"Vanilla Extract", 
+        "grams": 224, 
+        "type": "Baking & Spices"
+    }, 
+    "salt_table":{
+        "label":"Salt (Table)", 
+        "grams": 288, 
+        "type": "Baking & Spices"
+    }, 
+    "salt_kosher":{
+        "label":"Salt (Kosher)", 
+        "grams": 128, 
+        "type": "Baking & Spices"
+    }, 
+    "matcha":{
+        "label":"Matcha", 
+        "grams": 96, 
+        "type": "Baking & Spices"
+    },
+    "marzipan": {
+        "label":"Marzipan", 
+        "grams": 290, 
+        "type": "Baking & Spices"
+    }, 
+    "yeast_instant":{
+        "label":"Yeast (Instant)", 
+        "grams": 144, 
+        "type": "Baking & Spices"
+    }, 
+    "coconut_dried":{
+        "label":"Dried Coconut", 
+        "grams": 85, 
+        "type": "Baking & Spices"
+    }, 
+    "onion": {
+        "label":"", 
+        "grams": 142, 
+        "type": "Vegetables"
+    }, 
+    "mushrooms": {
+        "label":"", 
+        "grams": 78, 
+        "type": "Vegetables"
+    }, 
+    "ginger":{
+        "label":"", 
+        "grams": 228, 
+        "type": "Vegetables"
+    },
+    "garlic_minced":{
+        "label":"", 
+        "grams": 224, 
+        "type": "Vegetables"
+    },
+    "carrots_diced":{
+        "label":"", 
+        "grams": 142, 
+        "type": "Vegetables"
+    } , 
+    "carrots_grated":{
+        "label":"", 
+        "grams": 99, 
+        "type": "Vegetables"
+    } ,
+     "corn_fresh":{
+        "label":"", 
+        "grams": 152, 
+        "type": "Vegetables"
+    },
+    "raspberries":{
+        "label":"Raspberry", 
+        "grams": 120, 
+        "type": "Fruit"
+    }, 
+    "raisins":{
+        "label":"Raisin", 
+        "grams": 149, 
+        "type": "Fruit"
+    }, 
+    "cranberry_fresh":{
+        "label":"Cranberry (Fresh)", 
+        "grams": 99, 
+        "type": "Fruit"
+    }, 
+    "cranberry_dried":{
+        "label":"Cranberry (Dry)", 
+        "grams": 114, 
+        "type": ""
+    }, 
+    "lemon_juice":{
+        "label":"Lemon Juice", 
+        "grams": 224, 
+        "type": "Fruit"
+    }, 
+    "bread_crumbs":{
+        "label":"Bread Crumbs", 
+        "grams": 112, 
+        "type": "Pantry Items"
+    },
+    "panko":{
+        "label":"Panko", 
+        "grams": 50, 
+        "type": "Pantry Items"
+    }, 
+    "tomato_paste":{
+        "label":"Tomato Paste", 
+        "grams": 232, 
+        "type": "Pantry Items"
+    }, 
+    "pumpkin_puree":{
+        "label":"Pumpkin Puree", 
+        "grams": 227, 
+        "type": "Pantry Items"
+    } , 
+    "nutella": {
+        "label": "Nutella", 
+        "grams": 298, 
+        "type": "Pantry Items"
+    }, 
+    "mayo":{
+        "label":"Mayonnaise", 
+        "grams": 226, 
+        "type": "Pantry Items"
+    } , 
+    "marshmallows":{
+        "label":"Marshmallow", 
+        "grams": 43, 
+        "type": "Pantry Items"
+    } , 
+    "graham_cracker":{
+        "label":"Graham Cracker", 
+        "grams": 100, 
+        "type": "Pantry Items"
+    } , 
+    "water":{
+        "label":"Water", 
+        "grams": 227, 
+        "type": "etc"
+    }, 
+    "coconut_milk":{
+        "label":"Coconut Milk", 
+        "grams": 241, 
+        "type": "etc"
+    } 
+  }

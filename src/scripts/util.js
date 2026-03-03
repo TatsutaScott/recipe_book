@@ -162,3 +162,22 @@ export function formatDate (ddmmyyyy)  {
 
   return `${months[month - 1]} ${parseInt(day)}, ${year}`
 }
+
+
+export function limitDecimals( value, decimals ){
+  return +parseFloat(value).toFixed( decimals );
+}
+
+export function filterByType(obj, type) {
+  return Object.fromEntries(
+    // eslint-disable-next-line no-unused-vars
+    Object.entries(obj).filter(([_, value]) => value.type === type)
+  );
+}
+
+export function objectToArray(obj) {
+  return Object.entries(obj).map(([key, value]) => ({
+    value: key,
+    ...value
+  }));
+}
