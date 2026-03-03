@@ -1,0 +1,91 @@
+{
+  "title": {
+    "en": "Pork Bulgogi",
+    "kr": "돼지불고기", 
+    "lang":"kr"
+  },
+  "source": "https://www.maangchi.com/recipe/bulgogi",
+  "time": "000040",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "26122023",
+  "tags": ["Korean", "Pork", "Main"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Pork Belly",
+          "amount": 1,
+          "unit": "lb",
+          "note": "sliced thinly into pieces ½ inch x 2 inches and ⅛ inch thick"
+        },
+        {
+          "name": "Crush Pear",
+          "amount": 0.5,
+          "unit": "c"
+        },
+        {
+          "name": "Onion Puree",
+          "amount":0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "minced"
+        },
+        {
+          "name": "Ginger",
+          "amount": 0.5,
+          "unit": "tsp",
+          "note": "minced"
+        },
+        {
+          "name": "Ingredient 1",
+          "amount": 1,
+          "unit": "c",
+          "note": "whole number"
+        },
+        {
+          "name": "Green Onion",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Brown Sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Toasted Sesame Oil",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Gochujang",
+          "amount": 3,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Mix all the marinade ingredients in a bowl. Add the sliced pork and mix well.",
+        "You can grill, pan-fry, or BBQ right after marinating, but it’s best to let it marinate in the fridge for at least 30 minutes.",
+        "Serve with rice, ssamjang (a soybean paste based dipping sauce), lettuce, sliced garlic and green chili pepper.",
+        "Make a small green lettuce wrap with pork, garlic, green chili pepper and ssamjang and eat the wrap in one bite!"
+      ]
+    }
+  ],
+  "notes": null
+}
