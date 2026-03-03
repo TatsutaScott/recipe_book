@@ -1,0 +1,53 @@
+{
+  "title": {"en":"Pizza Dough"},
+  "source": "https://www.nonnabox.com/authentic-italian-pizza-dough-recipe/",
+  "time": "000400",
+  "servings": {
+    "amount": 4,
+    "unit": "Pizza"
+  },
+  "date": "28032023",
+  "tags": ["Bread", "Dinner", "Italian", "Main"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "00 Flour",
+          "amount": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "Water",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Dry Active Yeast",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "amount": 15,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "To prepare the dough for the pizza, start pouring the **flour** in a large mixer bowl.",
+        "In a small bowl add luke-warm **water** (*about 110 - 120 F*)  and then add the **yeast**, mixing gently until the yeast is dissolved.",
+        "Turn the mixer on with the hook mounted on medium-to-low speed and start pouring the **water** little by little, making sure you wait for the previous dose to be absorbed by the flour.",
+        "Keep kneading until the dough gets smooth and homogeneous. When it gets to that point, keep kneading for about **15 - 20 minutes**.",
+        "Add the **salt** and keep the mixer running until the salt is fully combined with the dough.",
+        "When the salt is fully absorbed, remove the dough from the mixer and knead with your hands until you get a large ball.",
+        "Place it in a large bowl, cover with foil or a clean humid cloth, then let it rise in the oven on the proofing setting.",
+        "Wait until the mixture has at least doubled in volume (*after 1.5 h*). Ideally, you should let it triple in size (*at least 3 hours*).",
+        "Once the dough has risen, transfer it on a work surface.",
+        "Divide it into 4 equal parts and shape them as balls using your hands. Once done, cover them with a clean cloth and let them stand for **30 minutes** at room temperature, before using them to make your pizzas."
+      ]
+    }
+  ]
+}
