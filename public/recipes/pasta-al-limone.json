@@ -1,0 +1,68 @@
+{
+  "title": {
+    "en":"Pasta al Limone"
+    },
+  "source": "https://www.bonappetit.com/recipe/pasta-al-limone",
+  "time": "000020",
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date":   "230611" ,
+  "tags": ["Italian", "Pasta", "Main"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Lemon",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Spaghetti",
+          "amount": 12,
+          "unit": "oz",
+          "note": "or other long pasta"
+        },
+        {
+          "name": "Heavy Cream",
+          "amount": 0.75,
+          "unit": "c"
+        },
+        {
+          "name": "Butter",
+          "amount": 6,
+          "unit": "tbsp",
+          "note": "unsalted"
+        },
+        {
+          "name": "Finely GratedParmesan",
+          "amount": 3,
+          "unit": "oz",
+          "note": "about 3/4 cups"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Using a vegetable peeler, remove two 2\"-long strips of lemon zest Thinly slice each strip lengthwise into thin strands; set aside for serving. Finely grate remaining zest into a large pot (like a Dutch oven). Cut lemon in half and squeeze out enough juice to yield 2 Tbsp. into a small bowl; set aside.",
+        {
+          "text": " Cook pasta in another large pot of boiling heavily salted water, stirring occasionally, until very al dente",
+          "note": "Pasta will finish cooking in the sauce."
+        },
+        "Meanwhile, add cream to pot with lemon zest and cook over medium heat, whisking often, until liquid is just beginning to simmer, about 2 minutes. Reduce heat to medium-low. Whisk in butter 1 Tbsp. at a time until melted and sauce is creamy and emulsified. Remove from heat.",
+        {
+          "text": "Just before pasta is al dente, scoop out 1½ cups pasta cooking liquid. Add ¾ cup pasta cooking liquid to cream sauce and return to medium heat. Using tongs, transfer spaghetti to pot with sauce.",
+          "note": "it’s okay if a little water comes along with it"
+        },
+        {
+          "text": "Cook, tossing often and adding Parmesan little by little, until cheese is melted and sauce is creamy, about 3 minutes. If sauce looks tight, add 1–2 Tbsp. pasta cooking liquid. Stir in reserved lemon juice; season with more salt, if needed.",
+          "note": "Cream sauces tighten up very quickly as they cool, so it’s better to lean on the saucier side of things."
+        },
+        "Divide pasta among bowls. Season with pepper, then top with reserved lemon zest strips."
+      ]
+    }
+  ]
+}
