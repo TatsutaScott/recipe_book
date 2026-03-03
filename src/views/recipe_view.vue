@@ -13,7 +13,7 @@
       />
 
       <h2 class="subtitle">Ingredients</h2>
-      <ingredients_comp :ingredients="recipe.ingredients"/>
+        <ingredients_comp :ingredients="recipe.ingredients"/>
 
       <h2 class="subtitle">Steps</h2>
         <steps_comp :directions="recipe.directions" />
