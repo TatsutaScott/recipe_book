@@ -1,0 +1,86 @@
+{
+  "title": {
+    "english": "Pork Larb",
+    "km": "ລາບ", 
+    "lang": "km"
+  },
+  "source": "https://thewoksoflife.com/pork-larb/",
+  "time": "000025",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "27122023",
+  "tags": ["South-East Asian", "Main", "Pork"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Uncooked Rice",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable Oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ground Pork",
+          "amount": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Sugar",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Fish Sauce",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Red Chili",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Shallots",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Scallions",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Cilantro",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Mint",
+          "amount": 0.5,
+          "unit": "c"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "In a dry wok or pan over low heat, toast the rice grains, stirring continuously until they turn golden and fragrant––about 10 minutes. Grind to a coarse powder in a mortar & pestle. Set aside.",
+        "Place your wok back over high heat until smoking. Add the oil and the ground pork. Stir-fry until the pork is browned, and add in the toasted rice powder, sugar, fish sauce, and lime juice.",
+        "Stir-fry for another minute, and then add in the chili, shallots, scallions, cilantro, and mint. Stir-fry for one more minute, and then taste for seasoning, adding more chili, sugar, fish sauce, and/or lime juice to your taste if needed.",
+        "Serve with sticky rice, steamed jasmine rice, and/or lettuce leaves."
+      ]
+    }
+  ]
+}
