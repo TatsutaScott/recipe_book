@@ -1,0 +1,96 @@
+{
+  "title":{"en": "Rigatoni with Vodka Sauce"},
+  "source": "https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce",
+  "time": "000030",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "16062023",
+  "tags": ["Main", "Italian", "Pasta"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Medium Onion",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Garlic",
+          "amount": 4,
+          "unit": "Clove"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 4,
+          "unit": "oz"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "Plus more for drizzling"
+        },
+        {
+          "name": "Tomato Paste",
+          "amount": 1,
+          "unit": "4.5oz tube",
+          "note": "Double Concentrated"
+        },
+        {
+          "name": "Crushed Red Pepper Flakes",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vodka",
+          "amount": 4,
+          "unit": "oz"
+        },
+        {
+          "name": "Heavy Cream",
+          "amount": 4,
+          "unit": "oz"
+        },
+        {
+          "name": "Rigatoni",
+          "amount": 4,
+          "unit": "oz"
+        },
+        {
+          "name": "Fresh Basil",
+          "amount": 4,
+          "unit": "oz",
+          "note": "for serving"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+            "Fill a stock pot or other large pot three-quarters full with water and heat over high. Toss in a handful of kosher salt and bring to a boil while you do your other prep.",
+            "Peel and finely chop 1 medium onion.",
+            "Firmly smash 4 garlic cloves with the flat side of a chef’s knife and remove peel.",
+            "Grate 4 oz. Parmesan on the smallest holes of the box grater.",
+            "Warm 2 Tbsp. extra-virgin olive oil in a Dutch oven or other heavy large pot over medium heat (position it next to pot of water). Add onion and garlic and cook, stirring constantly, just until onion is starting to brown around the edges, 5–7 minutes.",
+            "Add 1 (4.5-oz.) tube double-concentrated tomato paste and ½ tsp. crushed red pepper flakes and stir until paste evenly coats onion. Continue to cook, stirring often, until paste is deep red and starting to brown on bottom of pot, 5–7 minutes.",
+            "Add 2 oz. (¼ cup) vodka to deglaze pan and stir to incorporate, scraping bottom of pot. Reduce heat to low.",
+            "Using a heatproof glass measuring cup, scoop about ¼ cup boiling water from pot, then add ¾ cup heavy cream to measuring cup (this brings up the temperature of the cream so it won’t break when you add it to the pot).",
+            "Slowly add warmed cream to Dutch oven, stirring constantly, until a smooth sauce forms. Remove from heat.",
+            "Add 1 lb. rigatoni to pot of boiling salted water; cook pasta according to package instructions until al dente. About 1 minute before the timer goes off, use heatproof measuring cup to scoop up about 1 cup pasta cooking liquid. Heat Dutch oven over low.",
+            "Using a spider, transfer rigatoni to Dutch oven along with any water that’s piggybacking on the pasta.",
+            "Add ½ cup pasta cooking liquid to Dutch oven and stir to incorporate, then gradually add half of Parmesan, stirring constantly to melt cheese. You should have a smooth, glossy sauce that coats each piece of pasta. Season with salt and add a splash more pasta water to thin sauce, if needed.",
+            "Divide pasta among bowls. Top with remaining Parmesan, dividing evenly. Drizzle with more oil, then tear basil leaves over."
+        ]
+
+    }
+  ],
+  "notes": [
+    {
+      "title": "Alcohol Replacement",
+      "content": "Vodka can be replaced with other liquids if needed. Good alcohol replacements are Vermouth or Marsala. Water can also be used as a non alcohol alternative."
+    }
+  ]
+}

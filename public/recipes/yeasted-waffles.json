@@ -1,0 +1,68 @@
+{
+  "title": {"en":"Yeasted Waffles"},
+  "source": "https://www.onceuponachef.com/recipes/yeasted-waffles-cuisinart-giveaway.html",
+  "time": "001200",
+  "servings": {
+    "amount": 10,
+    "unit": "waffles"
+  },
+  "date": "28122023",
+  "tags": ["Bread", "Breakfast"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Milk",
+          "amount": 1.75,
+          "unit": "c"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 0.5,
+          "unit": "c",
+          "note": "cut into 9 pieces"
+        },
+        {
+          "name": "All Purpose Flour",
+          "amount": 2,
+          "unit": "c"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Dry-active Yeast",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Large Eggs",
+          "amount": 2,
+          "unit": null
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Melt the butter in small saucepan over medium-low heat; add the milk and heat until warm to the touch (about 110 - 120 F ).",
+        "Once the milk mixture is warm, whisk in yeast and let sit for 10 minutes.",
+        "Whisk the flour, sugar, and salt in a large bowl to combine. Gradually whisk the warm milk/butter mixture into the flour mixture, and continue whisking until batter is smooth. In a small bowl, whisk eggs and vanilla until combined, then add the egg mixture to the batter and whisk until incorporated. Scrape down the sides of the bowl with a rubber spatula, cover the bowl with plastic wrap, and refrigerate for at least 12 or up to 24 hours.",
+        "Heat the waffle iron according to the manufacturer's instructions. Remove the waffle batter from the refrigerator (it will be foamy and doubled in size) and whisk to recombine (the batter will deflate). Spray the waffle iron with non-stick cooking spray and cook according to the manufacturer’s instructions. Serve the waffles hot off the iron."
+      ]
+    }
+  ]
+}

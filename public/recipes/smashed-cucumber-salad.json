@@ -1,0 +1,90 @@
+{
+  "title": {
+    "en": "Smashed Cucumber Salad",
+    "zh": "拍黃瓜", 
+    "lang": "zh"
+  },
+  "source": "https://thewoksoflife.com/smashed-asian-cucumber-salad/",
+  "time": "000010",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "01012022",
+  "tags": ["Side", "Chinese", "Salad"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Seedless Cucumbers",
+          "amount": 2,
+          "note": "about 1 - 1.5 lb",
+          "unit": null
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "amount": 2.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sesame Oil",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Light Soy Sauce",
+          "amount": 3,
+          "unit": "tsp"
+        },
+        {
+          "name": "Rice Vinegar",
+          "amount": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic",
+          "amount": [2, 4],
+          "unit": "clove",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Chili oil",
+          "amount": [1, 2],
+          "unit": "tsp",
+          "note": "optional"
+        },
+        {
+          "name": "Toasted Sesame Seeds",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Cilantro",
+          "amount": 1,
+          "unit": "Handful",
+          "note": "chopped"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Wash the cucumbers and pat them dry with a clean towel. Make the salad dressing by combining the salt, sugar, sesame oil, light soy sauce, and rice vinegar. Stir until the sugar and salt are completely dissolved. Set aside.",
+        "On a cutting board, lay a large knife flat against the cucumber, and smash it lightly with your other hand. The cucumber should crack open and smash into four sections. Repeat along its full length. Once the whole cucumber is completely open (*usually into 4 long sectional pieces*), cut it at a 45-degree angle into bite-sized pieces.",
+        "In a large bowl, mix the cut cucumber with the prepared dressing, garlic and chili oil (*or cooked plain oil*), and toss it well. Serve, garnished with sesame seeds and cilantro."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Note on oil",
+      "text": "If you prefer to omit the chili oil, heat up a tablespoon of oil in a pan and drizzle it over the cucumber. Seems weird, but in Chinese cooking, uncooked vs. cooked oil have different flavors and are treated as such!"
+    }
+  ]
+}

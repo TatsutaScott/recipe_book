@@ -1,0 +1,78 @@
+{
+  "title": {"en":"Shakshuka"},
+  "source": "https://food52.com/recipes/65845-yotam-ottolenghi-s-shakshuka",
+  "time": "000030",
+  "servings": {
+    "amount": 4,
+    "unit": "Serving"
+  },
+  "date": "27122023",
+  "tags": ["Middle-Eastern", "Main", "Vegetarian"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Olive Oil",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Harissa",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Tomato Paste",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Red Peppers",
+          "amount": 2,
+          "unit": "c",
+          "note": "diced"
+        },
+        {
+          "name": "Garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Ground Cumin",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Very Ripe Tomatoes",
+          "amount": 5,
+          "unit": "c",
+          "note": "chopped or canned"
+        },
+        {
+          "name": "Large Eggs",
+          "amount": 4,
+          "unit": null
+        },
+        {
+          "name": "Egg Yolks",
+          "amount": 4,
+          "unit": null
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "In a large frying pan over medium heat, warm the olive oil and then add the harissa, tomato paste, red peppers, garlic, cumin, and 1/2 teaspoon salt. Saute for about 10 minutes, until the peppers soften. Add the tomatoes, bring to a gentle simmer, and cook for another 10 minutes, or until the sauce has thickened.",
+        "Make eight little dips in the sauce. Gently break the eggs and carefully pour each int its own dip. Do the same with the yolks, Use a fork to swirl the egg whites a little bit with the sauce, taking care not to break the yolks. Simmer gently for 8 to 10 minutes, until the egg whites are set but the yolks are still running. Remove from the heat, leave for a couple of minutes to settle, then spoon into individual plates. and serve with the labneh or yogurt."
+      ]
+    }
+  ]
+}

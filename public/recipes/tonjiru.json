@@ -1,0 +1,144 @@
+{
+  "title": {
+    "en": "Tonjiru",
+    "jp": "豚汁", 
+    "lang":"jp"
+  },
+  "source": "https://www.justonecookbook.com/tonjiru/",
+  "time": "000040",
+  "servings": {
+    "amount": 8,
+    "unit": "serving"
+  },
+  "date": "26122023",
+  "tags": ["Japanese", "Soup", "Pork"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Sliced Pork Belly",
+          "amount": 9.6,
+          "unit": "oz"
+        },
+        {
+          "name": "Gobo",
+          "amount": 3.5,
+          "unit": "oz"
+        },
+        {
+          "name": "Onion",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Daikon",
+          "amount": 8.7,
+          "unit": "oz"
+        },
+        {
+          "name": "Carrot",
+          "amount": 4.3,
+          "unit": "oz"
+        },
+        {
+          "name": "Konnyaku",
+          "amount": 0.5,
+          "unit": "block"
+        },
+        {
+          "name": "Salt",
+          "amount": 0.25,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Green Onions",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "name": "Aburaage",
+          "amount": 1,
+          "unit": "piece",
+          "note": "fried tofu"
+        },
+        {
+          "name": "Ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "grated"
+        },
+        {
+          "name": "Tofu",
+          "amount": 7,
+          "unit": "oz"
+        },
+        {
+          "name": "Sesame Oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Dashi",
+          "amount": 6,
+          "unit": "c"
+        },
+        {
+          "name": "Miso",
+          "amount": 6,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "It's easier to cut pork belly if it's slightly frozen, so put it in the freezer for 15 minutes before you cut. Meanwhile, gather all the ingredients.",
+        "Take out the pork from the freezer and cut it into 1-inch pieces.",
+        "Scrape the gobo skin with the back of your knife. The flavor of the gobo is right underneath the skin; therefore, you only need to scrape off the outer skin. Do not use a peeler.",
+        "From the end of gobo, make a cross incision about 1 inch deep. This helps \"sharpening\" the gobo easier. Rotate as you shave the end of the gobo, like how you sharpen a pencil with a knife. Soak the shaved gobo in water to prevent discoloring.",
+        "Discard the dirty water and rinse gobo with running water.",
+        "Cut the onion in half lengthwise and cut into thin slices.",
+        "Peel and cut the daikon half lengthwise.",
+        "Cut in half again (now they are quarters) and cut into ⅛ inch slices. If you have skinnier daikon, cut into thin half-moon-shaped slices.",
+        "Peel and cut the carrot in half lengthwise, and then slice thinly.",
+        "Cut the konnyaku into small and thin rectangular pieces.",
+        {
+          "text": "Sprinkle ¼ tsp salt and rub well with hands. Leave stand for 5 minutes.",
+          "note": "Salt releases water along with the unwanted odor."
+        },
+        "In the meantime, bring a small saucepan of water to a boil. Once boiling, add the konnyaku.",
+        {
+          "text": "Cook konnyaku for 2-3 minutes, drain water, and set aside.",
+          "note": "This helps to remove the unwanted smell."
+        },
+        "Slice the green onion diagonally.",
+        "Remove excess oil on aburaage with a piece of paper towel. Cut in half and thinly slice.",
+        "In a large pot, heat 1 Tbsp sesame oil over medium heat.",
+        "Add the pork belly and stir fry with a spatula. When the pork is no longer pink, add the onion.",
+        "Stir fry and add daikon and carrot slices. When ingredients are coated with oil, add gobo.",
+        "Add konnyaku, aburaage, negi, and dashi. The dashi should be just enough to cover the ingredients. If not enough, add more dashi (if you have any) or water. Stir to mix and close the lid to bring it to boil.",
+        "When boiling, lower the heat and skim off the scum and fat from the soup.",
+        "Cook, covered with the lid, on simmer until root vegetables are tender, about 10-15 minutes.",
+        {
+          "text": "When an inserted skewer on a tough and thick vegetable pierces through, it's done cooking. Turn off the heat.",
+          "note": " If you are preparing ahead, stop here and let cool completely before storing the pot in the refrigerator."
+        },
+        {
+          "text": "For the best flavor and fragrance, miso should be added right before serving if possible. Add 5 Tbsp miso using a strainer. If you don’t have one, let the miso completely dissolved in the ladle first before releasing it to the soup. Taste the soup. If it's too salty, add dashi (if you have) or water.",
+          "note": "Always start adding a little less than the recipe says; each brand/type of miso has different saltiness"
+        },
+        {
+          "text": "If the soup is not enough flavor, add more miso (I added 1 Tbsp). When you are done with miso, add grated ginger.",
+          "note": "When you add tofu (always add tofu after miso as it is delicate), make sure your miso soup has a slightly stronger taste because the moisture from the tofu will dilute the flavor."
+        },
+        {
+          "text": "Tear tofu into small pieces and add them. You can alternatively cut the tofu into cubes instead of tearing it.",
+          "note": "Tearing add more surface of tofu which will absorb more flavor of miso soup."
+        },
+        "When you are ready to serve, reheat the miso soup on medium-low heat and keep it at a low simmer. NEVER let the miso soup boil because miso will lose the flavor.",
+        "Serve in the miso soup bowl, sprinkle green onion, and serve immediately."
+      ]
+    }
+  ]
+}

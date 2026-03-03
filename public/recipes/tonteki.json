@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Tonteki",
+    "jp": "トンテキ", 
+    "lang":"jp"
+  },
+  "source": "https://www.justonecookbook.com/tonteki/",
+  "time": "000025",
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date": "26122023",
+  "tags": ["Japanese", "Main", "Pork"],
+  "ingredients": [
+    {
+      "ingredients": [
+        {
+          "name": "Onion",
+          "amount": 0.5,
+          "unit": null
+        },
+        {
+          "name": "Boneless Pork Chops",
+          "amount": 4,
+          "unit": null,
+          "note": "approx. 1 lb"
+        },
+        {
+          "name": "salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Pepper",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Flour",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Neautral Flavored Oil",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ponzu",
+          "amount": 6,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "amount": 6,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Gather all the ingredients.",
+        "Over a small bowl, grate onion (use about half of it) and set aside.",
+        "Shred the cabbage into thin slices and cut the tomato into wedges.",
+        "In a medium bowl, combine ponzu, sake, soy sauce and whisk all together.",
+        "In order to sear the meat perfectly, pat dry the pork chops with paper towels. Removing the moisture will prevent the meat from being steamed.",
+        {
+          "text": "Make a couple of slits on the connective tissue between meat and fat on both sides of the meat.",
+          "note": "Red meat and fat have different elasticity, and when they are cooked, they will shrink and expand at different rates. These slits allow the pork loin chops to stay nice and flat when being cooked and prevent it from curling up."
+        },
+        {
+          "text": "Season one side of the meat with kosher salt and freshly ground black pepper.",
+          "note": "the sauce is salty, so you can skip the salt here if you like"
+        },
+        "Coat the meat with flour and remove excess flour.",
+        {
+          "text": "Heat the frying pan over medium-high heat and add the oil. When the pan is hot, add the pork loin chops and cook for 4 minutes each side. Do not flip until the bottom is nice golden brown. If you cook more than 2 pieces, make sure to cook in batches. Give some space between meat, which ensures nice searing and prevent from steaming the meat. ",
+          "note": "Browning the meat gives an important flavor component. To get evenly golden brown, the meat should be flat, which is why making slits is important at step 6."
+        },
+        {
+          "text": "If you see the protein coming out from the meat, you can pick it up and wipe off the excess oil.",
+          "note": "optional"
+        },
+        "Add the sauce and grated onion to the pan.",
+        "Pour the sauce over the meat and coat well with a spoon",
+        "If you eat with chopsticks, transfer to the cutting board and slice into bite-size pieces. Serve the Tonteki with shredded cabbage and tomatoes. Pour the extra sauce over the cabbage if you like."
+      ]
+    }
+  ]
+}

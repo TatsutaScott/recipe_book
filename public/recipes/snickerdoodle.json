@@ -1,0 +1,88 @@
+{
+  "title": {"en":"Snickerdoodles"},
+  "source": "https://www.modernhoney.com/the-best-snickerdoodle-cookie-recipe/",
+  "time": {
+    "active": "000015",
+    "passive": "000010"
+  },
+  "servings": {
+    "amount": 24,
+    "unit": "cookie"
+  },
+  "date": "27032023",
+  "tags": ["Desert", "Cookie"],
+  "ingredients": [
+    {
+      "section_title": "Cookie",
+      "ingredients": [
+        {
+          "name": "Unsalted Butter",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Sugar",
+          "amount": 1.5,
+          "unit": "c"
+        },
+        {
+          "name": "Eggs",
+          "amount": 2,
+          "unit": null
+        },
+        {
+          "name": "Vanilla",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "All Purpose Flour",
+          "amount": 2.75,
+          "unit": "c"
+        },
+        {
+          "name": "Cream of Tartar",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Baking Soda",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "section_title": "Sugar Coating",
+      "ingredients": [
+        {
+          "name": "Sugar",
+          "amount": 0.25,
+          "unit": "c"
+        },
+        {
+          "name": "Cinnamon",
+          "amount": 1.5,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps": [
+        "Preheat oven to 350 degrees.",
+        "In a large mixing bowl, cream butter and sugar for 4-5 minutes until light and fluffy.  Scrape the sides of the bowl and add the eggs and vanilla. Cream for 1-2 minutes longer.",
+        "Stir in flour, cream of tartar, baking soda, and salt, just until combined.",
+        "In a small bowl, stir together sugar and cinnamon.",
+        "If time allows, wrap the dough and let refrigerate for 20-30 minutes.  Roll into small balls until round and smooth.  Drop into the cinnamon-sugar mixture and coat well. Using a spoon, coat for a second time, ensuring the cookie balls are completely covered.  To make flatter snickerdoodles, press down in the center of the ball before placing in the oven. This helps to keep them from puffing up in the middle.",
+        "Place on a parchment paper-lined baking sheet. Bake for 9-11 minutes.  Let cool for several minutes on baking sheet before removing from the pan. "
+      ]
+    }
+  ]
+}
