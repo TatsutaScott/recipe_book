@@ -2,46 +2,28 @@
   <h1 class="title">Tools</h1>
   <div id="ingredient_conversion">
     <h2 class="subtitle">Ingredient Conversion</h2>
-    <div id="ingredient_conversion_container">
-      <span class="basic-text">12 </span>
-      <span class="basic-text">Eggs </span>
-      <span class="basic-text">is </span>
-      <span class="basic-text">42 </span>
-      <span class="basic-text">grams.</span>
-    </div>
+    <ingredient_conversion />
   </div>
+
   <div id="volume_conversion">
     <h2 class="subtitle">Volume Conversion</h2>
-      <div id="volume_conversion_container">
-        <span class="basic-text">12 </span>
-        <span class="basic-text">Eggs </span>
-        <span class="basic-text">is </span>
-        <span class="basic-text">42 </span>
-        <span class="basic-text">grams.</span>
-      </div>
+    <conversion type="volume" />
   </div>
+
   <div id="weight_conversion">
     <h2 class="subtitle">Weight Conversion</h2>
-      <div id="weight_conversion_container">
-        <span class="basic-text">12 </span>
-        <span class="basic-text">Eggs </span>
-        <span class="basic-text">is </span>
-        <span class="basic-text">42 </span>
-        <span class="basic-text">grams.</span>
-      </div>
+    <conversion type="weight" />
   </div>
   <div id="temperature_conversion">
     <h2 class="subtitle">Temperature Conversion</h2>
-      <div id="temp_conversion_container">
-        <span class="basic-text">12 </span>
-        <span class="basic-text">Eggs </span>
-        <span class="basic-text">is </span>
-        <span class="basic-text">42 </span>
-        <span class="basic-text">grams.</span>
-      </div>
+    <conversion type="temperature" />
   </div>
 </template>
 
+<script setup>
+import conversion from '@/components/conversion_comp.vue';
+import ingredient_conversion from '@/components/ingredient_conversion_comp.vue';
+</script>
 
 <style lang="scss" >
 @use '@/static/styles/global' as *;
@@ -54,5 +36,6 @@
   @include section;
   padding: 2em;
 }
+
 
 </style>
