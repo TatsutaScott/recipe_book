@@ -1,0 +1,87 @@
+{
+  "title": {"en": "Funeral Potatoes" },
+  "source": "https://tastesbetterfromscratch.com/funeral-potatoes/",
+  "time": {
+    "active": "000010",
+    "passive":  "000050"
+  },
+  "servings": {
+    "amount": 12,
+    "unit": "serving"
+  },
+  "date": "03032026",
+  "tags":["Side", "American"],
+  "ingredients": [
+    {
+      "ingredients":[
+        {
+            "name":"Frozen Hash Browns", 
+            "amount": 30, 
+            "unit":"oz", 
+            "note":"diced or shredded will work, THAWED"
+        }, 
+        {
+            "name":"Sour Cream", 
+            "amount": 2, 
+            "unit":"c"
+        }, 
+        {
+            "name":"Cream of Chicken Soup", 
+            "amount": 1, 
+            "unit":"10.5 oz can"
+        }, 
+        {
+            "name":"Butter", 
+            "amount": 10, 
+            "unit":"tbsp", 
+            "note":"divided & melted"
+        }, 
+        {
+            "name":"Salt", 
+            "amount": 1, 
+            "unit":"tsp"
+        }, 
+        {
+            "name":"Black Pepper", 
+            "amount": 0.25, 
+            "unit":"tsp"
+        }, 
+        {
+            "name":"Dried Minced Onion", 
+            "amount": 1, 
+            "unit":"tsp"
+        }, 
+        {
+            "name":"Shredded Cheddar Cheese", 
+            "amount": 2, 
+            "unit":"c"
+        }, 
+        {
+            "name":"Corn Flakes", 
+            "amount": 2, 
+            "unit":"c"
+        } 
+    ]
+    }
+  ],
+  "directions": [
+    {
+      "steps":[
+        "Allow potatoes to thaw in your fridge overnight, or spread them on a baking sheet and warm them in the oven at 200 degrees for about 20 minutes, until thawed.",
+        "Preheat oven to 350 degrees F.",
+        "Combine sour cream, cream of chicken soup, 6 Tablespoons of melted butter, salt, pepper and dried onion in a bowl. Mix well. ",
+        "Add potatoes and shredded cheese and stir to combine. Spoon mixture into a single layer in a 9x13\" pan.",
+        "Add cornflakes to a large ziplock bag and crush gently with your hands or a rolling pin. ",
+        "Add remaining 4 tablespoons of melted butter to the crushed cornflakes and combine well. Sprinkle mixture over potatoes. ",
+        "Bake uncovered at 350 F for 40-50 minutes.",
+        "Serve these with baked ham, oven roasted turkey, or flank steak."
+        ]
+    }
+  ],
+  "notes":[
+    {
+        "title":"To Freeze", 
+        "text":"To freeze funeral potatoes, make as directed, but do not add the cornflake topping. Cover and store in freezer for up to 3 months. When ready to bake, thaw in the fridge overnight. Add cornflake topping before baking."
+    }
+  ]
+}
