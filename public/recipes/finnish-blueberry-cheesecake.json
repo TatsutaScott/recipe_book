@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "Finnish Blueberry Cheesecake",
+    "fi": "Mustikka-juustokakkuruudut",
+    "lang": "fi"
+  },
+  "source": "https://www.soppa365.fi/reseptit/leivonta-juhli-ja-nauti-makea-leivonta/mustikka-juustokakkuruudut",
+  "time": "000120",
+  "servings": {
+    "amount": 12,
+    "unit": "serving"
+  },
+  "date": "03032026",
+  "tags":["Finnish", "Desset", "Cold"],
+  "ingredients": [
+    {
+      "section_title": "Base", 
+      "ingredients":[
+        {
+            "name":"Butter", 
+            "amount": 125, 
+            "unit":"g", 
+            "note":"room temperature"
+        }, 
+        {
+            "name":"Sugar", 
+            "amount": 100, 
+            "unit":"ml"
+        }, 
+        {
+            "name":"egg", 
+            "amount": 1, 
+            "unit": null
+        }, 
+        {
+            "name":"Flour", 
+            "amount": 350, 
+            "unit":"ml"
+        }, 
+        {
+            "name":"Baking Powder", 
+            "amount": 0.5, 
+            "unit":"tsp"
+        }, 
+        {
+            "name":"Grated Lemon Peel", 
+            "amount": 2, 
+            "unit":"tsp"
+        }
+    ]
+    }, 
+    {
+      "section_title": "Filling",
+      "ingredients":[
+        {
+            "name":"Cream Cheese", 
+            "amount": 400, 
+            "unit":"g"
+        }, 
+        {
+            "name":"Cream", 
+            "amount": 100, 
+            "unit":"ml"
+        }, 
+        {
+            "name":"Sugar", 
+            "amount": 100, 
+            "unit":"ml"
+        }, 
+        {
+            "name":"Egg", 
+            "amount": 1, 
+            "unit": null
+        }, 
+        {
+            "name":"Lemon Juice", 
+            "amount": 3, 
+            "unit":"tbsp"
+        }, 
+        {
+            "name":"Bluberries", 
+            "amount": 700, 
+            "unit":"ml"
+        }
+       ]
+    }, 
+    {
+      "section_title": "Crumb Topping",
+      "ingredients":[
+        {
+            "name":"Melted Butter", 
+            "amount": 100, 
+            "unit":"g"
+        }, 
+        {
+            "name":"Sugar", 
+            "amount": 75, 
+            "unit":"ml"
+        }, 
+        {
+            "name":"Flour", 
+            "amount": 250, 
+            "unit":"ml"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps":[
+        "First make the base. Beat the butter and sugar until combined. Add the egg and mix well. Combine the flour and baking powder. Fold the mixture into the butter-sugar mixture with the lemon zest. Place baking paper on the bottom of a 20 cm x 32 cm baking tin. Press the mixture into the tin. Refrigerate while you make the topping.",
+        "Beat together the cream cheese, cream, sugar and egg. Season with lemon juice.",
+        "Make the crumb mixture. Melt the butter and mix it with the sugar and flour.",
+        "Place the cream cheese mixture, blueberries, and crumble mixture in small balls on the bottom.", 
+        "Bake in a 175 degree oven for about 40 minutes or until the filling is just set. Let cool at room temperature for 20 minutes until the filling cools and becomes smooth. Store the pie in the refrigerator."
+      ]
+    }
+  ],
+  "notes":[
+    "If you use frozen blueberries, mix them with 1 tablespoon of potato flour."
+  ]
+}
