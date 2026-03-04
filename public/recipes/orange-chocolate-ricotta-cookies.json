@@ -1,0 +1,109 @@
+{
+  "title": {"en": "Orange Chocolate Chip Ricotta Cookies"},
+  "source": "https://www.cookingclassy.com/orange-chocolate-chip-ricotta-cookies/",
+  "time": {
+    "active": "000025",
+    "passive":  "000245"
+  },
+  "servings": {
+    "amount": 35,
+    "unit": "cookie"
+  },
+  "date": "19012026",
+  "tags":["Cookie", "Dessert", "Chocolate", "Baking"],
+  "ingredients": [
+    {
+      "section_title": "Cookie", 
+      "ingredients":[
+        {
+          "name": "All Purpose Flour",
+          "amount": 2,
+          "unit": "c"
+        },
+        {
+          "name": "Baking Powder",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Granulated Sugar",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": 0.5,
+          "unit": "c"
+        },
+        {
+          "name": "Orange Zest",
+          "amount": 4,
+          "unit": "tsp",
+          "note":"from 2 large oranges"
+        },
+        {
+          "name": "Large Egg",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "name": "Whole Milk Ricotta",
+          "amount": 1,
+          "unit": "c"
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Mini Semi-Sweet Chocolate Chips",
+          "amount": 1,
+          "unit": "c"
+        }
+      ]
+    }, 
+    {
+      "section_title": "Glaze",
+      "ingredients":[
+        {
+          "name": "Powdered Sugar",
+          "amount": 1.25,
+          "unit": "c"
+        },
+        {
+          "name": "Fresh Orange Juice",
+          "amount": 2.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Orange Zest",
+          "amount": 1,
+          "unit": "tsp",
+          "note":"about 1/2 a navel orange"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps":[ 
+        "In a medium mixing bowl whisk together flour, baking powder and salt for 20 seconds, set aside.",
+        "In the bowl of an electric stand mixer fitted with the paddle attachment cream together sugar, butter and 1 Tbsp + 1 tsp orange zest until combined (scrape bowl as needed throughout mixing process).",
+        "Mix in egg then blend in ricotta and vanilla extract. Add in flour mixture and mix until nearly combined then mix in chocolate chips. ",
+        "Cover bowl and chill 1 - 2 hours until it's not quite so sticky and a little easier to work with (if needed you can freeze it for a bit). ",
+        "Preheat oven to 350 degrees during last 20 minutes of dough chilling. (Note, don't use dark cookie sheets for this recipe or bottoms will burn).",
+        "Scoop dough out using a medium cookie scoop or two spoons (so you have just a heaping 1 Tbsp) and drop onto parchment paper or silicone liner lined baking sheet spacing cookies 2-inches apart.",
+        "Leave remaining dough chilled. Bake cookies in preheated oven 13 - 14 minutes until almost set. ",
+        "Let cool on pan several minutes then transfer to a wire rack to cool completely. Repeat with remaining dough (placing dough on a cool baking sheet). ",
+        "For the glaze, in a small mixing bowl whisk together powdered sugar, orange juice and orange zest. Spoon over cooled cookies. ",
+        "Let glaze set at room temperature. Store cookies in an airtight container. "
+      ]
+    }
+  ]
+}
