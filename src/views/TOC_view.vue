@@ -95,7 +95,6 @@ const filtered_recipes = computed(() => {
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 .active{
 
@@ -105,8 +104,11 @@ const filtered_recipes = computed(() => {
 
 #thumb_container{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   gap: 1rem;
+ align-items: stretch;
+
 }
 
 .tag_container{

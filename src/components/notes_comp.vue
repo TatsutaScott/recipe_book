@@ -14,7 +14,6 @@ const props = defineProps({notes: { type: Array}});
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #notes_container{
   @include section;

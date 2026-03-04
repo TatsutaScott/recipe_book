@@ -6,7 +6,6 @@
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #main_title{
   text-align: center;

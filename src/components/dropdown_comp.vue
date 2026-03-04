@@ -65,7 +65,6 @@ onBeforeUnmount(() => document.removeEventListener("pointerdown", onClickOutside
 
 <style lang="scss" scoped>
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 .dropdown {
   position: relative;

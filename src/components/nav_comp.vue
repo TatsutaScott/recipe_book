@@ -11,7 +11,6 @@
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 .nav_container {
   @include section;

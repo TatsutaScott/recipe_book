@@ -61,7 +61,6 @@ recompute(); // Initial compute
 
 <style lang="scss" scoped>
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #weight_conversion_container{
   @include row($gap:7pt);

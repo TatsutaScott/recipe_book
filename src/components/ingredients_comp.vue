@@ -27,7 +27,6 @@ const props = defineProps({ingredients: { type: Array}});
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 .ingredients_container{
   @include section;

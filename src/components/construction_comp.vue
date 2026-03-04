@@ -7,7 +7,6 @@
 
 <style lang="scss" >
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #construction_icon{
   font-size: 4em;

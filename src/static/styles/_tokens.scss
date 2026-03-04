@@ -1,0 +1,54 @@
+//importing fonts
+@use '@/static/styles/fonts.scss' as *;
+
+//-------------------------------------------------------
+//-----------------------TEXT----------------------------
+//-------------------------------------------------------
+
+//fonts
+$font-basic: Neue_Montreal;
+$font-title: Migra_bold;
+
+//font sizes
+$font-size-heading: 96px;
+$font-size-subheading: 34px;
+$font-size-subtitle: 24px;
+$font-size-body: 16px;
+$font-size-caption: 12px;
+
+//-------------------------------------------------------
+//-----------------------COLOR---------------------------
+//-------------------------------------------------------
+
+//background
+$color_bg: #F3F3F4;
+$color_bg_hilite: #f8faff;
+
+//text
+$color_text_base: #212121;
+$color_text_accent: #002FA7;
+$color_text_light: #477EFF;
+$color_text_muted: #7E7F83;
+
+//etc
+$color_gray: #E0E0E1;
+$test:#ff00ff;
+
+//-------------------------------------------------------
+//-----------------------LAYOUT--------------------------
+//-------------------------------------------------------
+
+//breakpoints
+$breakpoints: (
+  sm: 640px,   // large phones / small tablets
+  md: 768px,   // tablet
+  lg: 1024px   // desktop
+);
+
+//-------------------------------------------------------
+//-------------------------UI----------------------------
+//-------------------------------------------------------
+
+// borders
+$border-radius: 7px;
+$border-color: $color-text-accent;

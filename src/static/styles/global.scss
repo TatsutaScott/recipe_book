@@ -1,156 +1,22 @@
-//fonts
-$font-basic: Neue_Montreal;
-$font-title: Migra_bold;
+//-------------------------------------------------------
+//-----------------------IMPORTS-------------------------
+//-------------------------------------------------------
+@use '@/static/styles/_tokens.scss' as *;
+@use '@/static/styles/_reset.scss' as *;
+@use '@/static/styles/_mixins.scss' as *;
+@forward '@/static/styles/_text_classes.scss';
+@forward '@/static/styles/_tokens.scss';
+@forward '@/static/styles/_mixins.scss';
 
-$font-size-heading: 96px;
-$font-size-subheading: 34px;
-$font-size-subtitle: 24px;
-$font-size-body: 16px;
-$font-size-caption: 12px;
-
-// Color Variables
-$color_bg: #F3F3F4;
-$color_bg_hilite: #f8faff;
-
-$color_text_base: #212121;
-$color_text_accent: #002FA7;
-$color_text_light: #477EFF;
-$color_text_muted: #7E7F83;
-
-$color_gray: #E0E0E1;
-$test:#ff00ff;
-
-//breakpoints for responsive styling
-$breakpoints: (
-  sm: 640px,   // large phones / small tablets
-  md: 768px,   // tablet
-  lg: 1024px   // desktop
-);
-
-//mixins
-@mixin dashed-rounded($color: $color_text_muted){
-  border: 1pt dashed $color;
-  border-radius: 5px;
-}
-
-@mixin section{
-  margin-bottom: 1em;
-}
-
-@mixin row($justify: flex-start, $align: center, $gap: 0.5em){
-  display: flex;
-  flex-direction: row;
-  justify-content: $justify;
-  align-items: $align;
-  gap: $gap;
-}
-
-@mixin column($justify: flex-start, $align: center, $gap: 0.5em){
-  display: flex;
-  flex-direction: column;
-  justify-content: $justify;
-  align-items: $align;
-  gap: $gap;
-}
-
-@mixin hover{
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-  padding: 1em;
-  background-color: $color_bg_hilite;
-}
-
-@mixin border(
-  $top: false, $right: false, $bottom: false, $left: false,
-  $width: 1px, $style: solid, $color: $color_text_muted
-) {
-  @if $top { border-top: $width $style $color; }
-  @if $right { border-right: $width $style $color; }
-  @if $bottom { border-bottom: $width $style $color; }
-  @if $left { border-left: $width $style $color; }
-}
-
-@mixin respond($size) {
-  $width: map-get($breakpoints, $size);
-
-  @media (min-width: $width) {
-    @content;
-  }
-}
 
 // Text Classes
-.title{
-  font-family: $font-title;
-  color: $color_text_accent;
-  font-size: clamp($font-size-subheading, 7vh, $font-size-heading);
-  margin: 0.5rem 0;
-}
-
-.alt-title{
-  font-family: $font-title;
-  color: $color_text_light;
-  font-size:  clamp($font-size-body, 10vh, $font-size-subheading);
-}
-
-.subtitle{
-  font-family: $font-title;
-  color: $color_text_accent;
-  font-size: $font-size-subheading;
-}
-
-.subsection_title{
-  font-family: $font-basic;
-  font-size: $font-size-subtitle;
-}
-
-.basic-text{
-  font-family: $font-basic;
-  font-size: $font-size-body;
-}
-
-.note{
-  font-family: $font-basic;
-  color:$color_text_muted;
-  font-style: italic;
-  font-size: $font-size-caption;
-}
-
-.tag{
-  font-family: $font-basic;
-  color: $color_text_muted;
-  font-size: $font-size-caption;
-  padding: 0.25em;
-  @include dashed-rounded;
-  cursor: pointer;
-}
-
-.subsection_container{
-  margin: 1em 0;
-}
 
 // cancelling out styles
-button{
-  border: none;
-}
-
-a{
-  text-decoration: none;
-}
-
 h1, h2, h3, p {
   margin: 0;
   padding: 0;
 }
 
-html{
-  height: 100vh;
-  width: 100vw;
-}
-body{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-
-}
 #app {
   min-height: 100vh;
   padding: 1em;
@@ -162,13 +28,4 @@ body{
 
 #app > *:last-child {
   flex: 1;
-}
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-
-/* 2) Prevent common “mystery overflow” */
-html, body {
-  width: 100%;
-  margin: 0;
 }

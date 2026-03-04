@@ -27,7 +27,6 @@ import ingredient_conversion from '@/components/ingredient_conversion_comp.vue';
 
 <style lang="scss" >
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #ingredient_conversion_container,
 #volume_conversion_container,

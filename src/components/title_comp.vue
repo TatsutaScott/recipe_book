@@ -52,7 +52,6 @@ const format_servings = (servings) => {
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #title_container {
   @include column($justify: start, $align: stretch);
@@ -88,6 +87,4 @@ const format_servings = (servings) => {
 #source:hover {
   @include hover;
 }
-
-
 </style>

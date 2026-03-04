@@ -114,7 +114,6 @@ onMounted(async () => {
 
 <style lang="scss" scoped>
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 .number_input {
   font-family: $font-title;

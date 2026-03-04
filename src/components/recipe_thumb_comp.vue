@@ -21,13 +21,13 @@ const props = defineProps({
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 .recipe_thumb {
   @include dashed-rounded;
   background-color: $color_bg;
   padding: 0.5em;
   transition: 0.5s;
+  width:auto;
 }
 
 .recipe_thumb:hover{

@@ -20,7 +20,6 @@ const props = defineProps({directions: Array});
 
 <style lang="scss">
 @use '@/static/styles/global' as *;
-@use '@/static/styles/fonts.scss' as *;
 
 #steps_container{
   @include section;

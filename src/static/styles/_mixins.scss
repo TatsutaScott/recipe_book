@@ -1,0 +1,51 @@
+@use '@/static/styles/_tokens.scss' as *;
+
+//mixins
+@mixin dashed-rounded($color: $color_text_muted){
+  border: 1pt dashed $color;
+  border-radius: 5px;
+}
+
+@mixin section{
+  margin-bottom: 1em;
+}
+
+@mixin row($justify: flex-start, $align: center, $gap: 0.5em){
+  display: flex;
+  flex-direction: row;
+  justify-content: $justify;
+  align-items: $align;
+  gap: $gap;
+}
+
+@mixin column($justify: flex-start, $align: center, $gap: 0.5em){
+  display: flex;
+  flex-direction: column;
+  justify-content: $justify;
+  align-items: $align;
+  gap: $gap;
+}
+
+@mixin hover{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+  background-color: $color_bg_hilite;
+}
+
+@mixin border(
+  $top: false, $right: false, $bottom: false, $left: false,
+  $width: 1px, $style: solid, $color: $color_text_muted
+) {
+  @if $top { border-top: $width $style $color; }
+  @if $right { border-right: $width $style $color; }
+  @if $bottom { border-bottom: $width $style $color; }
+  @if $left { border-left: $width $style $color; }
+}
+
+@mixin respond($size) {
+  $width: map-get($breakpoints, $size);
+
+  @media (min-width: $width) {
+    @content;
+  }
+}
