@@ -1,0 +1,39 @@
+{
+  "title": {"en": "Kachumber Salad"},
+  "source": "https://www.indianhealthyrecipes.com/kachumber/",
+  "time": "000010",
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date": "09032026",
+  "tags":["Indian", "Vegetarian", "Salad"],
+  "ingredients": [
+    {
+      "ingredients":[
+        {"name":"Cucumber", "amount": 250, "unit":"g"},
+        {"name":"Tomato", "amount": 150, "unit":"g", "note":"2 medium"},
+        {"name":"Onion", "amount": 50, "unit":"g", "note":"1 medium"},
+        {"name":"Green Chili", "amount": 1, "unit":null, "note":"deseeded and chopped"},
+        {"name":"Salt", "amount": 0.25, "unit":"tsp", "note":"adjust to taste"},
+        {"name":"Roasted Cumin Powder", "amount": 0.5, "unit":"tsp", "note":"roasted jeera powder"},
+        {"name":"Crushed Black Pepper", "amount": 0.25, "unit":"tsp", "note":"or 1/4 teaspoon red chili powder"},
+        {"name":"Red Chili Powder", "amount": 0.125, "unit":"tsp", "note":"for garnish"},
+        {"name":"Small Lemon", "amount": 1, "unit":null, "note":"adjust to taste"},
+        {"name":"Choped Coriander Leaves", "amount": 0.25, "unit":"c"}
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps":[
+        "Sprinkle a little sea salt and vinegar over cucumbers, peeled onions, tomatoes, coriander leaves, green chilies and lemon. Leave them for 5 minutes, run and rinse them (except coriander leaves) well under running water. This step removes any pesky substances over the salad veggies.",
+        "Pat them dry with kitchen tissues or air dry them for a while.",
+        "Add coriander leavs to a bowl of water and rinse them, changing water a few times. Place them on a kitchen tissue of colander to remove excess moisture.", 
+        "Julienne or chop all the vegetables to bite sizes. If you want you may peel the cucumbers (optional) & deseed before chopping. Add them to a mixing bowl.",
+        "Chop coriander leaves and add them too. When you are ready to serve the kachumber, sprinkle salt and lemon juice. Mix it.",
+        "Transfer to serving bowls and garnish kachumber with black pepper, cumin powder and red chili powder." 
+      ]
+    }
+  ]
+}
