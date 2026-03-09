@@ -1,0 +1,86 @@
+{
+  "title": {"en": "Chicken Biryani"},
+  "source": "https://www.indianhealthyrecipes.com/chicken-biryani-recipe/",
+  "time": {
+    "passive":"000100", 
+    "active":"000025"
+  },
+  "servings": {
+    "amount": 4,
+    "unit": "serving"
+  },
+  "date": "09032026",
+  "tags":["Indian", "Chicken", "Rice"],
+  "ingredients": [
+    {
+        "section_title": "Chicken & Marinade",
+        "ingredients":[
+            {"name":"Chicken", "amount":0.5 , "unit":"kg", "note":"skinless bone-in or boneless, large pieces such as thighs, drumsticks, legs or a mix of all"}, 
+            {"name":"Plain Yogurt", "amount": 3, "unit":"tbsp"}, 
+            {"name":"Ginger Garlic Paste", "amount": 1.25, "unit":"tbsp", "note":"1 inch ginger & 4 garlic cloves crushed"}, 
+            {"name":"Salt", "amount": 0.75, "unit":"tsp", "note":"adjust to taste"}, 
+            {"name":"Turmeric", "amount":0.25, "unit":"tsp"}, 
+            {"name":"Red Chili Powder", "amount": 1, "unit":"tsp", "note":"or paprika, use a less spicy variety"}, 
+            {"name":"Garam Masala", "amount": 1, "unit":"tbsp", "note":"or biryani masala"}, 
+            {"name":"Lemon Juice", "amount":1, "unit":"tbsp", "note":"optional"}
+        ]
+    }, 
+    {
+        "section_title": "Whole Spices",
+        "note":"skip if you don't have any", 
+        "ingredients":[
+            {"name":"Bay leaf", "amount": 1, "unit": null},
+            {"name":"Green Cardamom", "amount": 4, "unit":"pods"},
+            {"name":"Cloves", "amount": 6, "unit":null},
+            {"name":"Cinnamon", "amount": 1, "unit":"inch"},
+            {"name":"Star Anise", "amount": 1, "unit":null},
+            {"name":"Shahi Jeera", "amount": 0.75, "unit":"tsp", "note":"Caraway seeds, can be substituted with cumin"},
+            {"name":"Mace", "amount":1 , "unit":"strand", "note":"omit if you don't like mace"}
+        ]
+        }, 
+     {
+    "section_title": "Other Ingredients",
+      "ingredients":[
+        {"name":"Basmati Riced", "amount": 2 , "unit":"c"},
+        {"name":"Ghee", "amount":2 , "unit":"tbsp", "note":"or oil"},
+        {"name":"Onion", "amount": 1, "unit":null, "note":"thinly sliced"},
+        {"name":"Mint Leaves", "amount": 0.5, "unit":"c", "note":"choped fine, about 15 leaves"},
+        {"name":"Green Chili", "amount": 1, "unit":null, "note":"slit or chopped"},
+        {"name":"Plain Yogurt", "amount": 0.25, "unit":"c"},
+        {"name":"Red Chili Powder", "amount": 0.5, "unit":"tsp", "note":"optional, for heat"},
+        {"name":"Garam Masala", "amount": 1, "unit":"tsp", "note":"or biryani masala"},
+        {"name":"Water", "amount": 3, "unit":"c", "note":"3.5 cups for pot, more if neededd"},
+        {"name":"Salt", "amount": 0.75, "unit":"tsp", "note":"to stir into water"},
+        {"name":"Fried Onions", "amount": 2, "unit":"tbsp", "note":"optional"},
+        {"name":"Saffron", "amount": 1, "unit":"pinch", "note":"optional, soaked in 2 tbps hot milk"}
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title":"subsection 1", 
+      "steps":[
+        "do thing 1 with ingredient 1", 
+        {"text":"this one has a note", "note":"this is a note"}
+      ]
+    }, 
+    {
+      "section_title":"subsection 1", 
+      "steps":[
+        "do thing 1 with ingredient 1", 
+        {"text":"this one has a note", "note":"this is a note"}
+      ]
+    }, 
+    {
+      "section_title":"subsection 1", 
+      "steps":[
+        "do thing 1 with ingredient 1", 
+        {"text":"this one has a note", "note":"this is a note"}
+      ]
+    }
+  ],
+  "notes":[
+    {"title":"Note on notes", "text":"some notes have titles"}, 
+    "other notes don't"
+  ]
+}
