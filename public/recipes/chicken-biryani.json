@@ -58,29 +58,44 @@
   ],
   "directions": [
     {
-      "section_title":"subsection 1", 
+      "section_title":"Preparation", 
       "steps":[
-        "do thing 1 with ingredient 1", 
-        {"text":"this one has a note", "note":"this is a note"}
+        "To a bowl, add yogurt, ginger garlic paste, salt, garam masala, turmeric, lemon juice & red chili powder.", 
+        "Mix up well and taste the marinade. Add more salt and spice if needed", 
+        "Make slits on the chicken pieces. Add it to the marinade & mix well. Cover and set aside for 1 hour to overnight.", 
+        "Rinse basmati rice three times and soak for 30 mins. Drain with a colander after 30 mins."
       ]
     }, 
     {
-      "section_title":"subsection 1", 
+      "section_title":"Chicken Biryani", 
       "steps":[
-        "do thing 1 with ingredient 1", 
-        {"text":"this one has a note", "note":"this is a note"}
+        "Heat ghee or oil in a pot.",  
+        "Add whole spices - bay leaf, cardamom, cloves, cinnamon, star anise, shahi jeera & mace. Skip them if you do not have.", 
+        "When the spices begin to sizzle, add onions & fry them evenly stirring often until uniformly light brown but not burnt.", 
+        "Add chicken & saute until pale for 5 mins on medium heat.", 
+        "Cover & cook on a low flame until the chicken is soft cooked or tender. Saute to evaporate any excess moisture in the pot.", 
+        "Taste test and add more salt if needed. Add yogurt, half of the chopped mint leaves, slit green chili, red chili powder & garam masala."
       ]
     }, 
     {
-      "section_title":"subsection 1", 
+      "section_title":"Layering", 
       "steps":[
-        "do thing 1 with ingredient 1", 
-        {"text":"this one has a note", "note":"this is a note"}
+        "Mix everything well and layer chicken evenly at the bottom.", 
+        "Spread drained rice in a layer over the chicken.", 
+        "To a separate pot, pour water. If cooking in a pot use more water.", 
+        "Add salt and mix. Taste the Water. It must be slightly salty. Bring this to a rolling boil.", 
+        "Pour 2 cups of this hot water across the sides of the pot. Gently poor the rest on top of the rice.", 
+        "level the rice if needed. Sprinly the rest fo the mint leavs. Optionally add fried onions & saffron soaked milk if using.", 
+        "Cover and cook on a medium flame until the rice in the chicken biryani is cooked completely but not mushy or undercooked. (Takes about 15 mins, from the time the water boils in the pot, but may be different for you). If the rice is still under cooked or hard & there is no water at the bottom, pout 1/4 to 1/2 cup more boiling water depending on the kind of rice used and cook further. When done it has to be fully cooked, yet remain grainy but not mushy.", 
+        "Serve from the top to the bottom layer. Each serving gets biryani rice from top and chicken from the bottom layer."
       ]
     }
   ],
   "notes":[
-    {"title":"Note on notes", "text":"some notes have titles"}, 
-    "other notes don't"
+        {"title":"Water", "text":"The amount of water to use depends on the brand of basmati rice. Not all basmati rice need the same amount of water. So start with 3 cups of water. Towards the end if the rice is undercooked, pour 1/4 to 1/2 cup coiling water and cook further. You will need to experiment a bit with the right amount here."},
+        {"title":"Tomatoes", "text":" An authentic biryani never uses tomatoes, so they are not used in the recipe. It does not add any tast and infact alters the flavor."}, 
+        {"title":"Yogurt or Curd", "text":"Do not use sour curd. If the curd is slightly sour then skip using lemon juice."}, 
+        {"title":"Rice", "text":"I have used lalquilla basmati rice, old malai. Any other basmati rice may need less or more water. Make sure to use as needed."} 
+
   ]
 }
