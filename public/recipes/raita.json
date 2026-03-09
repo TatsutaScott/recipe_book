@@ -1,0 +1,37 @@
+{
+  "title": {"en": "Raita"},
+  "source": "https://www.indianhealthyrecipes.com/raita-recipes-biryani-pulao-kababs/",
+  "time": "000006",
+  "servings": {
+    "amount": 2,
+    "unit": "serving"
+  },
+  "date": "09032026",
+  "tags":["Indian", "Side", "Vegetarian"],
+  "ingredients": [
+    {
+      "ingredients":[
+        {"name":"Curd", "amount": 1, "unit": "c", "note":"chilled fresh plain yogurt, more if requried"},
+        {"name":"Cucumbers", "amount":0.5, "unit":"c", "note":"English / Persion / Japanese / Indian"}, 
+        {"name":"Onion", "amount": 4, "unit":"tbsp", "note":"or shallots fine chopped, optional"}, 
+        {"name":"Salt", "amount":0.25, "unit":"tsp", "note":"adjust to taste" }, 
+        {"name":"Green Chilies", "amount": 2, "unit":null, "note":"serrano peppers, deseeded and chopped"},
+        {"name":"Coriander Leaves", "amount":1, "unit":"tbsp", "note":"finely chopped"},
+        {"name":"Cumin Powder or Seeds", "amount":0.5, "unit":"tsp", "note":"optional, read notes"}
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "steps":[
+        "Wash cucumbers, onion (if using) and green chilies under running water. Peel the cucumbers if you prefer and chop them into bite sized pieces. Deseed chilies if you prefer low heat and chop them. Fine chop coriander leaves and onions.",
+        "Add yogurt and salt to a mixing bowl and whisk well until smooth. Add cucumbers, onion. coriander leaves, chilies, salt and cumin powder. Mix well and taste test to adjust salt. If it is too thick for your liking add more yogurt.",
+        "Garnish with cumin powder or black pepper." 
+      ]
+    }
+  ],
+  "notes":[
+    "Use roasted cumin powder. Store bought cumin powder is unroasted, unless labelled. You may roast that lightly in a pan on a low heat, stirring often until it begins to smell earthy and smoky. It can burn too fast so be cautious.", 
+    "If you don't have the powder and only have seeds, you may toast them in a pan until aromatic and crush with a mortar and pestle or with a rolling pin."
+  ]
+}
