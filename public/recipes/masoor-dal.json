@@ -1,0 +1,70 @@
+{
+  "title": {"en": "Masoor Dal"},
+  "source": "https://www.indianhealthyrecipes.com/masoor-dal-recipe/",
+  "time": {
+    "active": "000005",
+    "passive":  "000020"
+  },
+  "servings": {
+    "amount": 2,
+    "unit": "serving"
+  },
+  "date": "09032026",
+  "tags":["Indian", "Vegtarian", "Lentil"],
+  "ingredients": [
+    {
+      "section_title": "Main Ingredients", 
+      "ingredients":[
+        {"name":"Maoor Dal", "amount": 0.5, "unit":"c", "note":"Red Lentils"}, 
+        {"name":"Moong Dal", "amount": 2, "unit":"tbsp", "note":"optional"},       
+        {"name":"Medium-Sized Tomatoes", "amount": 2, "unit":null, "note":"deseeded & chopped"}, 
+        {"name":"Green Chili", "amount": 1, "unit":null, "note":"optional"}, 
+        {"name":"Water", "amount": 1.5, "unit":"c"}
+      ]
+    }, 
+    {
+      "section_title": "To Temper",
+      "ingredients":[
+        {"name":"Ghee", "amount": 2, "unit":"tbsp", "note":"1 tbsp oil or 2 tbsp butter"}, 
+        {"name":"Dried Red Chili", "amount": 1, "unit":null, "note":"broken"},       
+        {"name":"Garlic", "amount": 2, "unit":"clove", "note":"chopped"}, 
+        {"name":"Mustard Seed", "amount":0.25, "unit":"tsp", "note":"optional"}, 
+        {"name":"Cumin Seeds", "amount":0.5, "unit":"tsp"},
+        {"name":"Asafoetida", "amount":1, "unit":"pinch", "note":"hing"}, 
+        {"name":"Salt", "amount": 0.5, "unit":"tsp", "note":"adjust to taste"}, 
+        {"name":"Kashmiir Red Chili Powder", "amount": 0.25, "unit":"tsp", "note":"use up to 3/4 for heat, adjust to taste"}, 
+        {"name":"Turmeric", "amount":0.25, "unit": "tsp"}, 
+        {"name": "Garam Masala", "amount":0.125, "unit":"tsp", "note":"more if you want"}, 
+        {"name":"Kasuri Methi", "amount":0.5, "unit":"tsp", "note":"dried fenugreek leaves"}, 
+        {"name":"Lemon Juice", "amount": 1, "unit":"tbsp", "note":"to serve"}
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "section_title":"Stove Top Masoor Dal", 
+      "steps":[
+        "Add masoor dal & moong dal (ptional) to a pot. Wash it a few times until the water runs clear", 
+        "Next add chopped tomatoes, water and green chili", 
+        "Bring the Water to a rolling boil, reduce the heat and cook until soft, adding more hot water if needed. Skim off any froth that rises to the top.", 
+        "Mash the dal to suit your liking. You can make it smooth or keep it coarse for a texture. If needed you cna pour 2 to 3 tbsp hot water to bring it to a consistency."
+      ]
+    }, 
+    {
+      "section_title":"Temper / Tadka", 
+      "steps":[
+       "Heat ghee (or oil or butter) in a small pan, on a medium heat.", 
+       "Add mustard seeds, cumin seeds, dried red chilies and chopped garlic.", 
+       "Saute until the garlic turns slightly golden. Turn off the heat and add hing, chili powder, turmeric & garam masala.", 
+       {"text":"Quickly pour this off to the dal.", "note":"If you want you may set aside half of the tempering along with red chili to garnish later."}, 
+       "Time to add salt and crushed kasuri methi if using. Mix and simmer for 2 mins. Taste test and add more salt if required.", 
+       "Squeeze in some lemon & garnish with chopped coriander leaves before serving. Masoor dal is ready to serve with rote or rice."
+        ]
+    }
+  ],
+  "notes":[
+    "Add 2 tbsps of moong dal to give it a thicker texture. If using moong dal just use 1/4 cup more water to cook the dal.",
+    "For variations you can also add some carrots, spinach, or methi leaves to the dal.", 
+    "You can set aside half of the tadka (tempering) for garnish"
+  ]
+}
